@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">YW9的博客</title>
     <subtitle type="html">记录自己的所思所想。</subtitle>
-    <updated>2020-04-25T15:09:13+08:00</updated>
+    <updated>2020-04-25T16:39:08+08:00</updated>
     <id>https://yw9.github.io/</id>
     <link rel="alternate" type="text/html" href="https://yw9.github.io/" />
     <link rel="self" type="application/atom+xml" href="https://yw9.github.io/atom.xml" />
@@ -14,7 +14,7 @@
             
                 <email>ywshi@live.cn</email>
             </author>
-    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.69.2">Hugo</generator>
         <entry>
             <title type="text">错过</title>
@@ -27,7 +27,9 @@
                     <uri>https://yw9.github.io</uri>
                     <email>ywshi@live.cn</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<p>隔壁房间有窸窸窣窣的声音，伴随着男人的低声咳嗽，合租的室友已经洗漱完毕准备出门了。俞是看看表，才刚过5点。翻一翻身，俞是开始后悔昨晚竟没有坚守自己睡前渴死不喝水的人生信条，他感受到了自己肿胀坚挺的下体，膀胱的充实感让他断定里面不是血液而是尿液。</p>]]></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[<p>隔壁房间有窸窸窣窣的声音，伴随着男人的低声咳嗽，合租的室友已经洗漱完毕准备出门了。俞是看看表，才刚过5点。翻一翻身，俞是开始后悔昨晚竟没有坚守自己睡前渴死不喝水的人生信条，他感受到了自己肿胀坚挺的下体，膀胱的充实感让他断定里面不是血液而是尿液。</p>……]]></summary>
             
                 <content type="html"><![CDATA[<p>隔壁房间有窸窸窣窣的声音，伴随着男人的低声咳嗽，合租的室友已经洗漱完毕准备出门了。俞是看看表，才刚过5点。翻一翻身，俞是开始后悔昨晚竟没有坚守自己睡前渴死不喝水的人生信条，他感受到了自己肿胀坚挺的下体，膀胱的充实感让他断定里面不是血液而是尿液。</p>
 <p>睡意也随着尿一起排空了，躺在床上，俞是翻出手机滑动。昨晚睡前刷过的朋友圈仅有一条更新，那是一个平时怎么也不会跑到脑海里的名字，但是一看到这几个字记忆的闸门就止不住。</p>
@@ -84,11 +86,13 @@
                     <uri>https://yw9.github.io</uri>
                     <email>ywshi@live.cn</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<p>年前逛张大妈的时候跟风买了一台“云轩h170”准系统，配上CPU、内存、硬盘后装macOS来用，目前使用下来还不错。不过，可能是出于成本的考量，这台主机是没有音频接口的，为此我买了一个带声卡的Type-C转3.5mm的转接头用来接耳机。但是我其实是不喜欢一直带着耳机的，所以平时主要是用蓝牙连接小度音箱外放使用。这样使用唯一的麻烦就是每次开机都要手动连接一下音箱。今天试着网上搜索了一下，其实是有解决方案的，下面记录一下。</p>]]></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[<p>年前逛张大妈的时候跟风买了一台“云轩h170”准系统，配上CPU、内存、硬盘后装macOS来用，目前使用下来还不错。不过，可能是出于成本的考量，这台主机是没有音频接口的，为此我买了一个带声卡的Type-C转3.5mm的转接头用来接耳机。但是我其实是不喜欢一直带着耳机的，所以平时主要是用蓝牙连接小度音箱外放使用。这样使用唯一的麻烦就是每次开机都要手动连接一下音箱。今天试着网上搜索了一下，其实是有解决方案的，下面记录一下。</p>……]]></summary>
             
                 <content type="html"><![CDATA[<p>年前逛张大妈的时候跟风买了一台“云轩h170”准系统，配上CPU、内存、硬盘后装macOS来用，目前使用下来还不错。不过，可能是出于成本的考量，这台主机是没有音频接口的，为此我买了一个带声卡的Type-C转3.5mm的转接头用来接耳机。但是我其实是不喜欢一直带着耳机的，所以平时主要是用蓝牙连接小度音箱外放使用。这样使用唯一的麻烦就是每次开机都要手动连接一下音箱。今天试着网上搜索了一下，其实是有解决方案的，下面记录一下。</p>
 <h1 id="applescript">AppleScript</h1>
-<p>AppleScript是用在macOS上的脚本语言，与系统结合非常紧密，操作起来也很方便。我在网上搜到了这个<a href="https://stackoverrun.com/cn/q/4771043">&ldquo;Connect to bluetooth device (iPhone) via command line on MacOSX&rdquo;</a>，里面的脚本是用来自动连接iPhone的，连接音箱也是一个原理。根据我的需求，我稍微做了一点修改。</p>
+<p>AppleScript是用在macOS上的脚本语言，与系统结合非常紧密，操作起来也很方便。我在网上搜到了这个<a href="https://stackoverrun.com/cn/q/4771043">&quot;Connect to bluetooth device (iPhone) via command line on MacOSX&quot;</a>，里面的脚本是用来自动连接iPhone的，连接音箱也是一个原理。根据我的需求，我稍微做了一点修改。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt"> 1
@@ -192,7 +196,9 @@
                     <uri>https://yw9.github.io</uri>
                     <email>ywshi@live.cn</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<p>知道小米的时候还在上高中，根本就没机会用手机，所以也就不存在比较不同手机之间的区别。即便如此，我还是知道小米——从同学们的课余的谈资中。红米手机第一次发售时的广告效果很不错，我这个一个月摸一次手机的高中生都知道可以在QQ空间抢999元的红米手机。当时根本没有购买需求，但还是随大流抢了一波，因为根据当时的宣传效果来看，似乎抢到不是花钱，而是赚了钱。</p>]]></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[<p>知道小米的时候还在上高中，根本就没机会用手机，所以也就不存在比较不同手机之间的区别。即便如此，我还是知道小米——从同学们的课余的谈资中。红米手机第一次发售时的广告效果很不错，我这个一个月摸一次手机的高中生都知道可以在QQ空间抢999元的红米手机。当时根本没有购买需求，但还是随大流抢了一波，因为根据当时的宣传效果来看，似乎抢到不是花钱，而是赚了钱。</p>……]]></summary>
             
                 <content type="html"><![CDATA[<p>知道小米的时候还在上高中，根本就没机会用手机，所以也就不存在比较不同手机之间的区别。即便如此，我还是知道小米——从同学们的课余的谈资中。红米手机第一次发售时的广告效果很不错，我这个一个月摸一次手机的高中生都知道可以在QQ空间抢999元的红米手机。当时根本没有购买需求，但还是随大流抢了一波，因为根据当时的宣传效果来看，似乎抢到不是花钱，而是赚了钱。</p>
 <p>这样的营销手段，至今流淌在小米的血液中。当然了，红米手机我并没有抢到。
@@ -249,7 +255,9 @@
                     <uri>https://yw9.github.io</uri>
                     <email>ywshi@live.cn</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<p>从农村的初中跑到县里上高中曾带给我很强的自卑感，对于班级里那些穿着超短裤，打扮时髦的女同学，我甚至连看都不敢看，更别说交流了。还好有一群同样来自农村，性格开朗的男同学带我一起玩耍，给我起外号，让我不至于太过孤僻。</p>]]></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[<p>从农村的初中跑到县里上高中曾带给我很强的自卑感，对于班级里那些穿着超短裤，打扮时髦的女同学，我甚至连看都不敢看，更别说交流了。还好有一群同样来自农村，性格开朗的男同学带我一起玩耍，给我起外号，让我不至于太过孤僻。</p>……]]></summary>
             
                 <content type="html"><![CDATA[<p>从农村的初中跑到县里上高中曾带给我很强的自卑感，对于班级里那些穿着超短裤，打扮时髦的女同学，我甚至连看都不敢看，更别说交流了。还好有一群同样来自农村，性格开朗的男同学带我一起玩耍，给我起外号，让我不至于太过孤僻。</p>
 <p>到了高二，文理分科，数学一塌糊涂的我只好选择文科，那帮兄弟们偏偏理科更强，纷纷离我而去。文科班男生更少，一个宿舍就装得下。人数一少，互相之间的交流就更充分。所以没过多久，大家就开始讨论喜欢谁了。看着他们都有心头的牵挂，我也不想落后，就选择了隔壁班一个长得有点像马苏的女孩作为牵挂对象。也许那时是我情窦开得最大的时候，所以选定她以后，我真的好像喜欢上了她。</p>
@@ -290,8 +298,10 @@
                     <uri>https://yw9.github.io</uri>
                     <email>ywshi@live.cn</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<p>我发现我对自己的年龄有偏见。</p>
-<p>这偏见主要在于我不能向透露身高那样干脆地把年龄透露给别人。我会先说自己是90后，企图蒙混过关。有人会说，你这一蒙混就想蒙混10岁啊。但是其实只能蒙混5岁，因为大多数95后是会直接说自己是95后的。如果90后这个答案不能满足询问者的好奇心，那我也只好如实交待，“94年的，94年12月。”“94年12月”是我每次都必须加上的限定词，目的只有一个，证明自己的年龄小。</p>]]></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[<p>我发现我对自己的年龄有偏见。</p>
+<p>这偏见主要在于我不能向透露身高那样干脆地把年龄透露给别人。我会先说自己是90后，企图蒙混过关。有人会说，你这一蒙混就想蒙混10岁啊。但是其实只能蒙混5岁，因为大多数95后是会直接说自己是95后的。如果90后这个答案不能满足询问者的好奇心，那我也只好如实交待，“94年的，94年12月。”“94年12月”是我每次都必须加上的限定词，目的只有一个，证明自己的年龄小。</p>……]]></summary>
             
                 <content type="html"><![CDATA[<p>我发现我对自己的年龄有偏见。</p>
 <p>这偏见主要在于我不能向透露身高那样干脆地把年龄透露给别人。我会先说自己是90后，企图蒙混过关。有人会说，你这一蒙混就想蒙混10岁啊。但是其实只能蒙混5岁，因为大多数95后是会直接说自己是95后的。如果90后这个答案不能满足询问者的好奇心，那我也只好如实交待，“94年的，94年12月。”“94年12月”是我每次都必须加上的限定词，目的只有一个，证明自己的年龄小。</p>
@@ -335,8 +345,10 @@
                     <uri>https://yw9.github.io</uri>
                     <email>ywshi@live.cn</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/1009573-78b2859caeb228b5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p>之前博客是在Windows上搭建的，后来Windows 10内置了linux子系统，我就想能不能在这个子系统里搭建一个静态博客，因为这样就无需安装nodejs和git了。</p>]]></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/1009573-78b2859caeb228b5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p>之前博客是在Windows上搭建的，后来Windows 10内置了linux子系统，我就想能不能在这个子系统里搭建一个静态博客，因为这样就无需安装nodejs和git了。</p>……]]></summary>
             
                 <content type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/1009573-78b2859caeb228b5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
 <p>之前博客是在Windows上搭建的，后来Windows 10内置了linux子系统，我就想能不能在这个子系统里搭建一个静态博客，因为这样就无需安装nodejs和git了。</p>
@@ -526,14 +538,16 @@ deploy:
                     <uri>https://yw9.github.io</uri>
                     <email>ywshi@live.cn</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/1009573-94e417a82fe98922.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="桌面镇楼">
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/1009573-94e417a82fe98922.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="桌面镇楼">
 不知从什么时候起，我养成了自己的一套使用Windows 10的习惯，总结起来就是以下三点：</p>
 <ul>
 <li>只安装必须的软件</li>
 <li>有Portable版本就不用安装版</li>
 <li>有UWP版本就用UWP版本（不管它有多么简陋）</li>
 </ul>
-<p>我基于以上三点打造了自己顺手的电脑，现在想要把电脑中的软件以及设置记录下来，以防后期重装系统后没有目的的乱找。</p>]]></summary>
+<p>我基于以上三点打造了自己顺手的电脑，现在想要把电脑中的软件以及设置记录下来，以防后期重装系统后没有目的的乱找。</p>……]]></summary>
             
                 <content type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/1009573-94e417a82fe98922.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="桌面镇楼">
 不知从什么时候起，我养成了自己的一套使用Windows 10的习惯，总结起来就是以下三点：</p>
@@ -624,12 +638,14 @@ deploy:
                     <uri>https://yw9.github.io</uri>
                     <email>ywshi@live.cn</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<p>看了一篇文章，感触颇深，然而想要表达时却又千头万绪。暂且先把文章贴在这儿。文章的标题叫做《为什么你总是这么被动？》。</p>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[<p>看了一篇文章，感触颇深，然而想要表达时却又千头万绪。暂且先把文章贴在这儿。文章的标题叫做《为什么你总是这么被动？》。</p>
 <p>01</p>
 <p>你是被动的人吗？</p>
 <p>生活中我们会经常遇见一种人，从不主动，特别被动，比如在男女感情里，有些从不主动追求女孩，有些人必须要等别人主动太能谈恋爱，俩被动的人明明彼此有意，但因为俩性格都被动，结果谁都无法先跨出那一步，最后杀进了个主动的人，恋情就此告吹。</p>
 <p>还有的人在工作和生活中从来不能主动，在大会上从来不发言，在群体聚会中沉默寡言，几乎从来不表达意见，点菜时要不是有人使劲邀请他，绝不会主动点。被动最让人印象深刻的大概是好像特别没主见，自己没主意，怎么都行，永远处于配合外界的状态。</p>
-<p>对于一个支配欲望强的人来说，有个被动的搭档真是一拍即可，但对于一般人来说，一个人太被动，会有点让对方觉得无趣和心累，比如恋爱中，一个人总是被动，估计恋爱也谈不下去，毕竟恋爱也是一件你来我往的事。</p>]]></summary>
+<p>对于一个支配欲望强的人来说，有个被动的搭档真是一拍即可，但对于一般人来说，一个人太被动，会有点让对方觉得无趣和心累，比如恋爱中，一个人总是被动，估计恋爱也谈不下去，毕竟恋爱也是一件你来我往的事。</p>……]]></summary>
             
                 <content type="html"><![CDATA[<p>看了一篇文章，感触颇深，然而想要表达时却又千头万绪。暂且先把文章贴在这儿。文章的标题叫做《为什么你总是这么被动？》。</p>
 <p>01</p>
@@ -738,8 +754,10 @@ deploy:
                     <uri>https://yw9.github.io</uri>
                     <email>ywshi@live.cn</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<p>拖了好久的鼻子问题，在和爸妈说过之后，我终于决定去医院看看。</p>
-<p>早晨没吃饭，起床先把手机刷成了安卓5.0，由于网络太差，光下载刷机包就下了好久，期间我看完了《食神》。值得庆幸的是，在我不使用Google服务的安卓5.0上，电量似乎可以正常了。到现在为止，重启有过两次。姑且使用这样的组合。</p>]]></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[<p>拖了好久的鼻子问题，在和爸妈说过之后，我终于决定去医院看看。</p>
+<p>早晨没吃饭，起床先把手机刷成了安卓5.0，由于网络太差，光下载刷机包就下了好久，期间我看完了《食神》。值得庆幸的是，在我不使用Google服务的安卓5.0上，电量似乎可以正常了。到现在为止，重启有过两次。姑且使用这样的组合。</p>……]]></summary>
             
                 <content type="html"><![CDATA[<p>拖了好久的鼻子问题，在和爸妈说过之后，我终于决定去医院看看。</p>
 <p>早晨没吃饭，起床先把手机刷成了安卓5.0，由于网络太差，光下载刷机包就下了好久，期间我看完了《食神》。值得庆幸的是，在我不使用Google服务的安卓5.0上，电量似乎可以正常了。到现在为止，重启有过两次。姑且使用这样的组合。</p>
@@ -783,7 +801,9 @@ deploy:
                     <uri>https://yw9.github.io</uri>
                     <email>ywshi@live.cn</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<p>前几天，一则题为“疑似京东12G用户数据外泄”的新闻使得大家又开始担忧起自己的账户安全。虽然京东对用户的密码进行了加密，但是如果你的密码太过简单，那么别有用心的人还是很容易在极短的时间内破解你的密码的。更为严重的是，现在很多人习惯于一条密码走天下，这无疑给自己的账户安全带来了极大的安全隐患。但如果过分追求密码的复杂程度，势必会带来无可避免的麻烦。所以，如何既能保证密码的复杂程度又能减少输入和记忆的麻烦成了很多人的刚需。于是，密码管理软件应运而生。目前，世面上的密码管理软件种类繁多，例如“1Password”、“LastPass”、“KeePass”等等，还有最近刚了解到的“LessPass”（LessPass与前面几个有所不同，它是根据你输入的主密码和账户信息计算一个密码出来，目前只有网页端，尚不完善）。在我看来，这些密码管理软件大体相同，差别就在于用户体验上。</p>]]></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[<p>前几天，一则题为“疑似京东12G用户数据外泄”的新闻使得大家又开始担忧起自己的账户安全。虽然京东对用户的密码进行了加密，但是如果你的密码太过简单，那么别有用心的人还是很容易在极短的时间内破解你的密码的。更为严重的是，现在很多人习惯于一条密码走天下，这无疑给自己的账户安全带来了极大的安全隐患。但如果过分追求密码的复杂程度，势必会带来无可避免的麻烦。所以，如何既能保证密码的复杂程度又能减少输入和记忆的麻烦成了很多人的刚需。于是，密码管理软件应运而生。目前，世面上的密码管理软件种类繁多，例如“1Password”、“LastPass”、“KeePass”等等，还有最近刚了解到的“LessPass”（LessPass与前面几个有所不同，它是根据你输入的主密码和账户信息计算一个密码出来，目前只有网页端，尚不完善）。在我看来，这些密码管理软件大体相同，差别就在于用户体验上。</p>……]]></summary>
             
                 <content type="html"><![CDATA[<p>前几天，一则题为“疑似京东12G用户数据外泄”的新闻使得大家又开始担忧起自己的账户安全。虽然京东对用户的密码进行了加密，但是如果你的密码太过简单，那么别有用心的人还是很容易在极短的时间内破解你的密码的。更为严重的是，现在很多人习惯于一条密码走天下，这无疑给自己的账户安全带来了极大的安全隐患。但如果过分追求密码的复杂程度，势必会带来无可避免的麻烦。所以，如何既能保证密码的复杂程度又能减少输入和记忆的麻烦成了很多人的刚需。于是，密码管理软件应运而生。目前，世面上的密码管理软件种类繁多，例如“1Password”、“LastPass”、“KeePass”等等，还有最近刚了解到的“LessPass”（LessPass与前面几个有所不同，它是根据你输入的主密码和账户信息计算一个密码出来，目前只有网页端，尚不完善）。在我看来，这些密码管理软件大体相同，差别就在于用户体验上。</p>
 <p>我刚接触此类软件时，1Password和LastPass都还是收费软件，至少想跨平台必须付费。于是我就选择了KeePass，主要是因为它免费。然而随着最近前两个软件逐渐免费，我也试着转移到它们上面，但却没有获得我从KeePass那儿得到的畅快感，所以，此篇教程是关于KeePass的。据说1Password在Mac和iOS上的表现更好，但我没有以上两种设备，所以按下不表。</p>
@@ -852,8 +872,10 @@ deploy:
                     <uri>https://yw9.github.io</uri>
                     <email>ywshi@live.cn</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<h3 id="我争执的样子肯定很丑">我争执的样子肯定很丑</h3>
-<p>昨天的课上，老师让大家就“健康中国”发表演讲。每个人讲完后，老师进行会进行简短的点评，无一例外，都是夸赞，这让我对老师的好感大增。中午吃饭，和w君以及其他诸君一起。w君平日爱开老师玩笑，我也早就知道。吃饭的过程中，w君又开起了玩笑。本来无伤大雅无有恶意的话，却触动了我敏感的神经，忍不住和w君争执了几句。我清晰地感觉到自己声音提高了分贝，血液涌上了脖子，整个人瞬间变得很热。刚说完话我就后悔了，我埋头吃饭，没敢看w君和其他诸君。可以想象，他们也很尴尬。原本稀松平常充满和气的午餐时间，因我高声的几句话而变得气氛凝重。我很自责。所幸的是，今日重和w君见面，我们都已“忘了”昨日的事了。今后，切忌过于敏感，切忌胡乱与人争执。</p>]]></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[<h3 id="我争执的样子肯定很丑">我争执的样子肯定很丑</h3>
+<p>昨天的课上，老师让大家就“健康中国”发表演讲。每个人讲完后，老师进行会进行简短的点评，无一例外，都是夸赞，这让我对老师的好感大增。中午吃饭，和w君以及其他诸君一起。w君平日爱开老师玩笑，我也早就知道。吃饭的过程中，w君又开起了玩笑。本来无伤大雅无有恶意的话，却触动了我敏感的神经，忍不住和w君争执了几句。我清晰地感觉到自己声音提高了分贝，血液涌上了脖子，整个人瞬间变得很热。刚说完话我就后悔了，我埋头吃饭，没敢看w君和其他诸君。可以想象，他们也很尴尬。原本稀松平常充满和气的午餐时间，因我高声的几句话而变得气氛凝重。我很自责。所幸的是，今日重和w君见面，我们都已“忘了”昨日的事了。今后，切忌过于敏感，切忌胡乱与人争执。</p>……]]></summary>
             
                 <content type="html"><![CDATA[<h3 id="我争执的样子肯定很丑">我争执的样子肯定很丑</h3>
 <p>昨天的课上，老师让大家就“健康中国”发表演讲。每个人讲完后，老师进行会进行简短的点评，无一例外，都是夸赞，这让我对老师的好感大增。中午吃饭，和w君以及其他诸君一起。w君平日爱开老师玩笑，我也早就知道。吃饭的过程中，w君又开起了玩笑。本来无伤大雅无有恶意的话，却触动了我敏感的神经，忍不住和w君争执了几句。我清晰地感觉到自己声音提高了分贝，血液涌上了脖子，整个人瞬间变得很热。刚说完话我就后悔了，我埋头吃饭，没敢看w君和其他诸君。可以想象，他们也很尴尬。原本稀松平常充满和气的午餐时间，因我高声的几句话而变得气氛凝重。我很自责。所幸的是，今日重和w君见面，我们都已“忘了”昨日的事了。今后，切忌过于敏感，切忌胡乱与人争执。</p>
@@ -904,7 +926,9 @@ deploy:
                     <uri>https://yw9.github.io</uri>
                     <email>ywshi@live.cn</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<p>大一期末，由于回家的火车票买得晚，所以需要在学校多留几日。其时，舍友都已回家去了。我在宿舍闲着无聊，开始折腾我的电脑了。那时候，距离Win10正式版的发布还有一个月左右，但网上已经有各种测试版了。于是，我把自己的电脑升级成了Win10。但这并没有满足我，我又开始搜索“除了Windows，电脑还能装什么系统”。霎那间，一些崭新的名词出现在了我的眼前，比如“Linux”、“Ubuntu“、”黑苹果“等等。也就是从那个时候起，我第一次知道了Linux。第一次装Ubuntu并没有费很大的力气，当桌面伴随着那独特的启动音展现在我的面前时，我情不自禁的哇了一声。倒不是说界面有多么华美，只是面对全新的完全不同于Windows的桌面时，我真的很惊奇。然而，开始使用时却是步步维艰，几乎不管做什么都得一边百度一边操作。终于，新奇感过后，我在Windows下毫不犹豫的格式化了Ubuntu的安装盘。</p>]]></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[<p>大一期末，由于回家的火车票买得晚，所以需要在学校多留几日。其时，舍友都已回家去了。我在宿舍闲着无聊，开始折腾我的电脑了。那时候，距离Win10正式版的发布还有一个月左右，但网上已经有各种测试版了。于是，我把自己的电脑升级成了Win10。但这并没有满足我，我又开始搜索“除了Windows，电脑还能装什么系统”。霎那间，一些崭新的名词出现在了我的眼前，比如“Linux”、“Ubuntu“、”黑苹果“等等。也就是从那个时候起，我第一次知道了Linux。第一次装Ubuntu并没有费很大的力气，当桌面伴随着那独特的启动音展现在我的面前时，我情不自禁的哇了一声。倒不是说界面有多么华美，只是面对全新的完全不同于Windows的桌面时，我真的很惊奇。然而，开始使用时却是步步维艰，几乎不管做什么都得一边百度一边操作。终于，新奇感过后，我在Windows下毫不犹豫的格式化了Ubuntu的安装盘。</p>……]]></summary>
             
                 <content type="html"><![CDATA[<p>大一期末，由于回家的火车票买得晚，所以需要在学校多留几日。其时，舍友都已回家去了。我在宿舍闲着无聊，开始折腾我的电脑了。那时候，距离Win10正式版的发布还有一个月左右，但网上已经有各种测试版了。于是，我把自己的电脑升级成了Win10。但这并没有满足我，我又开始搜索“除了Windows，电脑还能装什么系统”。霎那间，一些崭新的名词出现在了我的眼前，比如“Linux”、“Ubuntu“、”黑苹果“等等。也就是从那个时候起，我第一次知道了Linux。第一次装Ubuntu并没有费很大的力气，当桌面伴随着那独特的启动音展现在我的面前时，我情不自禁的哇了一声。倒不是说界面有多么华美，只是面对全新的完全不同于Windows的桌面时，我真的很惊奇。然而，开始使用时却是步步维艰，几乎不管做什么都得一边百度一边操作。终于，新奇感过后，我在Windows下毫不犹豫的格式化了Ubuntu的安装盘。</p>
 <p>要是事情就此戛然而止也就不会有这篇文章出现了，恨就恨在自此以后，我一次又一次的安装Ubuntu，然后又删掉，循环往复，每次都要浪费半天时间。说到底，我终究不能忘了Linux。前几日，我又一次折腾了我的电脑。然而，这一次，我颇满意自己的创作，竟渐渐生发出就此告别Windows的想法。不管结果如何，我觉得有必要把我这一次的折腾记录下来，也方便日后查看。</p>
@@ -941,7 +965,7 @@ deploy:
 用于：EXT4日志文件系统</p>
 <p>注意：前三次分区可以不按顺序，但如果电脑硬盘是mbr分区，则应把第一次分区放在第三步，因为mbr分区只能有四个主分区（好像是这样，记不清了）。推荐把分区类型改为gpt。</p>
 <h3 id="整理">整理</h3>
-<p>装完之后要进行整理，我是按照csdn上的这篇博客整理的，贴在这：<a href="http://blog.csdn.net/skykingf/article/details/45267517">&ldquo;安装Ubuntu 16.04后要做的事 - skykingf的专栏 - 博客频道 - CSDN.NET&rdquo;</a>。当然，有的地方我并没有使用他的建议。为了能在状态栏显示网速，我用Indicator-SysMonitor代替了Syspeek。Indicator-SysMonitor的安装方法如下：</p>
+<p>装完之后要进行整理，我是按照csdn上的这篇博客整理的，贴在这：<a href="http://blog.csdn.net/skykingf/article/details/45267517">&quot;安装Ubuntu 16.04后要做的事 - skykingf的专栏 - 博客频道 - CSDN.NET&quot;</a>。当然，有的地方我并没有使用他的建议。为了能在状态栏显示网速，我用Indicator-SysMonitor代替了Syspeek。Indicator-SysMonitor的安装方法如下：</p>
 <pre><code>sudo add-apt-repository ppa:fossfreedom/indicator-sysmonitor
 sudo apt-get update
 sudo apt-get install indicator-sysmonitor
@@ -1005,9 +1029,11 @@ sudo apt-get install indicator-sysmonitor
                     <uri>https://yw9.github.io</uri>
                     <email>ywshi@live.cn</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<p>自上大学以来，我养成了这样一个习惯，那就是每周六和妈妈通个电话。然而和爸爸的通话则没有任何规律可言，而且少得可怜。妈妈会把一周遇到的很多事情讲给我听，爸爸则通常只会问我钱可还够花。</p>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[<p>自上大学以来，我养成了这样一个习惯，那就是每周六和妈妈通个电话。然而和爸爸的通话则没有任何规律可言，而且少得可怜。妈妈会把一周遇到的很多事情讲给我听，爸爸则通常只会问我钱可还够花。</p>
 <p>昨天，我正在教室看《恋人絮语》，妈妈突然来了微信电话。我跑出教室接听。妈妈以为我在宿舍，我说在教室，她就以为我在上课，要挂了电话待会再打。我说我已经在教室外面了，她又担心我用流量太浪费，还说并没有什么事。终于还是挂了。回到教室，我却已经无心看书，磨蹭了一会儿就回了宿舍。在宿舍旁边的阳台上我拨通了妈妈的手机，她给我讲述了一些妹妹的事情。</p>
-<p>上一次考试，妹妹没有达到老师的要求（全校前十），所以被罚扫地，扫了一个多月。</p>]]></summary>
+<p>上一次考试，妹妹没有达到老师的要求（全校前十），所以被罚扫地，扫了一个多月。</p>……]]></summary>
             
                 <content type="html"><![CDATA[<p>自上大学以来，我养成了这样一个习惯，那就是每周六和妈妈通个电话。然而和爸爸的通话则没有任何规律可言，而且少得可怜。妈妈会把一周遇到的很多事情讲给我听，爸爸则通常只会问我钱可还够花。</p>
 <p>昨天，我正在教室看《恋人絮语》，妈妈突然来了微信电话。我跑出教室接听。妈妈以为我在宿舍，我说在教室，她就以为我在上课，要挂了电话待会再打。我说我已经在教室外面了，她又担心我用流量太浪费，还说并没有什么事。终于还是挂了。回到教室，我却已经无心看书，磨蹭了一会儿就回了宿舍。在宿舍旁边的阳台上我拨通了妈妈的手机，她给我讲述了一些妹妹的事情。</p>
@@ -1054,9 +1080,11 @@ sudo apt-get install indicator-sysmonitor
                     <uri>https://yw9.github.io</uri>
                     <email>ywshi@live.cn</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<p>今天整理Chrome书签，发现了这样一条<a href="http://bbs.kafan.cn/thread-1686205-1-1.html">“用火狐我喜欢用aria2下载，写写windows下教程吧_Firefox_浏览器讨论区 卡饭论坛 - 互助分享 - 大气谦和!”</a>。突然回忆起自己曾经使用过的非常强大的下载工具——aria2。当时我按照这个教程把aria2配置在了电脑上，用得十分畅快。后来换了固态硬盘重装了系统，再按照教程来配置时却怎么也不成功，所以也就放弃了。正好今天周末，天气又冷得很，是个宅在屋里的好日子，索性我就再来配置一次。</p>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[<p>今天整理Chrome书签，发现了这样一条<a href="http://bbs.kafan.cn/thread-1686205-1-1.html">“用火狐我喜欢用aria2下载，写写windows下教程吧_Firefox_浏览器讨论区 卡饭论坛 - 互助分享 - 大气谦和!”</a>。突然回忆起自己曾经使用过的非常强大的下载工具——aria2。当时我按照这个教程把aria2配置在了电脑上，用得十分畅快。后来换了固态硬盘重装了系统，再按照教程来配置时却怎么也不成功，所以也就放弃了。正好今天周末，天气又冷得很，是个宅在屋里的好日子，索性我就再来配置一次。</p>
 <h3 id="一aria2介绍">一、aria2介绍</h3>
-<p>我们先来看看<a href="https://aria2.github.io/">官网</a>对aria2的介绍：“aria2 is a lightweight</p>]]></summary>
+<p>我们先来看看<a href="https://aria2.github.io/">官网</a>对aria2的介绍：“aria2 is a lightweight</p>……]]></summary>
             
                 <content type="html"><![CDATA[<p>今天整理Chrome书签，发现了这样一条<a href="http://bbs.kafan.cn/thread-1686205-1-1.html">“用火狐我喜欢用aria2下载，写写windows下教程吧_Firefox_浏览器讨论区 卡饭论坛 - 互助分享 - 大气谦和!”</a>。突然回忆起自己曾经使用过的非常强大的下载工具——aria2。当时我按照这个教程把aria2配置在了电脑上，用得十分畅快。后来换了固态硬盘重装了系统，再按照教程来配置时却怎么也不成功，所以也就放弃了。正好今天周末，天气又冷得很，是个宅在屋里的好日子，索性我就再来配置一次。</p>
 <h3 id="一aria2介绍">一、aria2介绍</h3>
@@ -1118,9 +1146,11 @@ sudo apt-get install indicator-sysmonitor
                     <uri>https://yw9.github.io</uri>
                     <email>ywshi@live.cn</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<p>昨晚，世界杯预选赛12强赛在西安打响，赛前，国内各路媒体都报道说国足必须赢，一定赢。然而，结局是0比1负于战火纷飞的叙利亚。我算不上一个真正的球迷，但对于中国足球，我总是抱着很大的希望，他们的每一场比赛我都会看，看的过程中也屏气凝神，怕得要死。最终，我在失望中接受了这个最坏的结果。凭什么要求更多呢？要知道，我们本可能连12强赛都进不了。所以，把国足剩下的每一场比赛都当成生活的馈赠吧，去感受生活的不容易，现实的残酷。</p>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[<p>昨晚，世界杯预选赛12强赛在西安打响，赛前，国内各路媒体都报道说国足必须赢，一定赢。然而，结局是0比1负于战火纷飞的叙利亚。我算不上一个真正的球迷，但对于中国足球，我总是抱着很大的希望，他们的每一场比赛我都会看，看的过程中也屏气凝神，怕得要死。最终，我在失望中接受了这个最坏的结果。凭什么要求更多呢？要知道，我们本可能连12强赛都进不了。所以，把国足剩下的每一场比赛都当成生活的馈赠吧，去感受生活的不容易，现实的残酷。</p>
 <p>我不是一个资深球迷，对于各种战术也是一无所知，甚至球员在场上的位置应该叫什么都不太清楚。所以我不打算解读比赛的过程，我想说说自己在从高洪波上任后的一些所见所闻的看法。</p>
-<p>当佩兰带领国足一负再负，几乎丧失参加12强赛资格的时候，我去看有关国足的新闻，下面的评论几乎全是要求佩兰下课。</p>]]></summary>
+<p>当佩兰带领国足一负再负，几乎丧失参加12强赛资格的时候，我去看有关国足的新闻，下面的评论几乎全是要求佩兰下课。</p>……]]></summary>
             
                 <content type="html"><![CDATA[<p>昨晚，世界杯预选赛12强赛在西安打响，赛前，国内各路媒体都报道说国足必须赢，一定赢。然而，结局是0比1负于战火纷飞的叙利亚。我算不上一个真正的球迷，但对于中国足球，我总是抱着很大的希望，他们的每一场比赛我都会看，看的过程中也屏气凝神，怕得要死。最终，我在失望中接受了这个最坏的结果。凭什么要求更多呢？要知道，我们本可能连12强赛都进不了。所以，把国足剩下的每一场比赛都当成生活的馈赠吧，去感受生活的不容易，现实的残酷。</p>
 <p>我不是一个资深球迷，对于各种战术也是一无所知，甚至球员在场上的位置应该叫什么都不太清楚。所以我不打算解读比赛的过程，我想说说自己在从高洪波上任后的一些所见所闻的看法。</p>
@@ -1168,9 +1198,11 @@ sudo apt-get install indicator-sysmonitor
                     <uri>https://yw9.github.io</uri>
                     <email>ywshi@live.cn</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<h3 id="所谓的玖诺学联">所谓的“玖诺学联”</h3>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[<h3 id="所谓的玖诺学联">所谓的“玖诺学联”</h3>
 <p>刚刚在网络上看到了辅导员转发地一条动态，说的是自己被一个叫“玖诺学联”的给骗了。我不禁想起自己大二时的一段经历。
-大二下学期的一天下午，没有课，我去了一个教室看书。忽然来了一个电话，我一看区号是0512。我有些疑惑了，在那段时间，不知道为什么，我的号码像是被世界上所有骗子盯上了一样，每天都会接到几个骚扰电话，什么股票啊、原油啊，但号码一般是外地，所以这个苏州本地的号码很让我疑惑。我接了电话，对方自称江苏广播电视台的，并准确报出了我的信息。我放松了警惕，和他聊了起来，他问我专业、问我大学生活等等，</p>]]></summary>
+大二下学期的一天下午，没有课，我去了一个教室看书。忽然来了一个电话，我一看区号是0512。我有些疑惑了，在那段时间，不知道为什么，我的号码像是被世界上所有骗子盯上了一样，每天都会接到几个骚扰电话，什么股票啊、原油啊，但号码一般是外地，所以这个苏州本地的号码很让我疑惑。我接了电话，对方自称江苏广播电视台的，并准确报出了我的信息。我放松了警惕，和他聊了起来，他问我专业、问我大学生活等等，</p>……]]></summary>
             
                 <content type="html"><![CDATA[<h3 id="所谓的玖诺学联">所谓的“玖诺学联”</h3>
 <p>刚刚在网络上看到了辅导员转发地一条动态，说的是自己被一个叫“玖诺学联”的给骗了。我不禁想起自己大二时的一段经历。
@@ -1227,9 +1259,11 @@ sudo apt-get install indicator-sysmonitor
                     <uri>https://yw9.github.io</uri>
                     <email>ywshi@live.cn</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<p>毛概第一次课，老师就说这学期每人都有一次演讲的机会。没想到第二个星期就轮到了我。整个中秋节，我都没有去准备，直到最后一天晚上，一直拖到12点钟才终于定稿，主题叫“明辨是非与理性爱国”。可是，由于老师错误估计了人数，我并没有获得上场的机会。没法，只有等下次。由于“九一八事件”过去了很多时日，再去讲我那“理性爱国”云云已显得不合时宜，干脆推倒重来。这一次，我提早准备，早早确定了主题——关于中国的电影审查。稿子如下：</p>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[<p>毛概第一次课，老师就说这学期每人都有一次演讲的机会。没想到第二个星期就轮到了我。整个中秋节，我都没有去准备，直到最后一天晚上，一直拖到12点钟才终于定稿，主题叫“明辨是非与理性爱国”。可是，由于老师错误估计了人数，我并没有获得上场的机会。没法，只有等下次。由于“九一八事件”过去了很多时日，再去讲我那“理性爱国”云云已显得不合时宜，干脆推倒重来。这一次，我提早准备，早早确定了主题——关于中国的电影审查。稿子如下：</p>
 <h3 id="谈谈中国电影">谈谈中国电影</h3>
-<p>我也准备了ppt，但我不打算照着它去读，因为我觉得自己不是大学老师。我打算照着word来读。这让我想起了我高中时期的一个老师，他上课的时候从来不用ppt，只用word。</p>]]></summary>
+<p>我也准备了ppt，但我不打算照着它去读，因为我觉得自己不是大学老师。我打算照着word来读。这让我想起了我高中时期的一个老师，他上课的时候从来不用ppt，只用word。</p>……]]></summary>
             
                 <content type="html"><![CDATA[<p>毛概第一次课，老师就说这学期每人都有一次演讲的机会。没想到第二个星期就轮到了我。整个中秋节，我都没有去准备，直到最后一天晚上，一直拖到12点钟才终于定稿，主题叫“明辨是非与理性爱国”。可是，由于老师错误估计了人数，我并没有获得上场的机会。没法，只有等下次。由于“九一八事件”过去了很多时日，再去讲我那“理性爱国”云云已显得不合时宜，干脆推倒重来。这一次，我提早准备，早早确定了主题——关于中国的电影审查。稿子如下：</p>
 <h3 id="谈谈中国电影">谈谈中国电影</h3>
@@ -1281,7 +1315,7 @@ sudo apt-get install indicator-sysmonitor
                     <uri>https://yw9.github.io</uri>
                     <email>ywshi@live.cn</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[折腾了一天，终于有了模样。一些细节，慢慢改进吧。]]></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"><![CDATA[折腾了一天，终于有了模样。一些细节，慢慢改进吧。]]></summary>
             
                 <content type="html"><![CDATA[<p>折腾了一天，终于有了模样。一些细节，慢慢改进吧。</p>
 ]]></content>
