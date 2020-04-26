@@ -1,91 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 
-
-
-
-
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>YW9的博客</title>
-        <link>https://yw9.github.io/</link>
-        <description>记录自己的所思所想。</description>
-        <generator>Hugo 0.69.2 https://gohugo.io/</generator>
-        
-            <language>zh-CN</language>
-        
-        
-            <managingEditor>ywshi@live.cn (Owen)</managingEditor>
-        
-        
-            <webMaster>ywshi@live.cn (Owen)</webMaster>
-        
-        
-            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-        
-        <lastBuildDate>Mon, 27 Apr 2020 07:59:40 +0800</lastBuildDate>
-        
-            <atom:link rel="self" type="application/rss+xml" href="https://yw9.github.io/rss.xml" />
-        
-        
-            <item>
-                <title>堵得慌</title>
-                <link>https://yw9.github.io/posts/2e5ecf2c/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/2e5ecf2c/</guid>
-                <pubDate>Sat, 25 Apr 2020 18:07:45 +0800</pubDate>
-                
-                    <author>ywshi@live.cn (Owen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description><![CDATA[<p>有一件事情，我已经拖了很久了。几周前，我和S的恋情走到了终点。说开了之后，她让我把她的东西收拾一下，然后放到她家门卫那里。我说可以。可是当我开始收拾时，发现这件事情竟是如此艰难。我站在房间里环顾四周，想着家里好像也没有她多少东西啊。但仔细找找，又发现到处都有她的影子。拿起一件东西时，我阻止不了思绪的飘飞，脑海里全是她使用这件东西的场景。于是，我放下东西陷入沉思，终于什么都没收拾好。</p>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">YW9的博客</title>
+    <subtitle type="html">记录自己的所思所想。</subtitle>
+    <updated>2020-04-27T07:39:08+08:00</updated>
+    <id>https://yw9.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://yw9.github.io/" />
+    <link rel="self" type="application/atom+xml" href="https://yw9.github.io/atom.xml" />
+    <author>
+            <name>Owen</name>
+            <uri>https://yw9.github.io/</uri>
+            
+                <email>ywshi@live.cn</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <generator uri="https://gohugo.io/" version="0.69.2">Hugo</generator>
+        <entry>
+            <title type="text">堵得慌</title>
+            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/2e5ecf2c/" />
+            <id>https://yw9.github.io/posts/2e5ecf2c/</id>
+            <updated>2020-04-27T07:25:33+08:00</updated>
+            <published>2020-04-25T18:07:45+08:00</published>
+            <author>
+                    <name>Owen</name>
+                    <uri>https://yw9.github.io</uri>
+                    <email>ywshi@live.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[有一件事情，我已经拖了很久了。几周前，我和S的恋情走到了终点。说开了之后，她让我把她的东西收拾一下，然后放到她家门卫那里。我说可以。可是当我开始收拾时，发现这件事情竟是如此艰难。我站在房间里环顾四周，想着家里好像也没有她多少东西啊。但仔细找……]]></summary>
+            
+                <content type="html"><![CDATA[<p>有一件事情，我已经拖了很久了。几周前，我和S的恋情走到了终点。说开了之后，她让我把她的东西收拾一下，然后放到她家门卫那里。我说可以。可是当我开始收拾时，发现这件事情竟是如此艰难。我站在房间里环顾四周，想着家里好像也没有她多少东西啊。但仔细找找，又发现到处都有她的影子。拿起一件东西时，我阻止不了思绪的飘飞，脑海里全是她使用这件东西的场景。于是，我放下东西陷入沉思，终于什么都没收拾好。</p>
 <p>于是我想让她过来收拾一下，佯装着搞不清楚该收拾哪些。起初，她说可以。过了几天又说不想再走那条通往我家的路，还是要麻烦我收拾一下。她用词礼貌谨慎，我听了却是浑身不自在。我只能答应她。</p>
 <p>可我至今还是没有收拾好。</p>
 <p>我真的搞不清楚自己是怎样一种心态，说起来明明是我把她放走的，现在却又如此狼狈。我其实是一个非常佛系的人，跟她在一起时，我什么都没有考虑，开心就是了。可是她不这样，她会去考虑未来，考虑婚姻。起初我还巧言敷衍，但时间久了我知道这不是办法。但我真的没有考虑过结婚。我刚大学毕业，刚谈第一次恋爱，我真的没办法说服自己马上就去考虑婚姻的模样。可是从她的角度考虑，似乎也能说得通。她早我四年毕业，已经在社会上闯荡了四年，渴望一个港湾似乎合情合理。这是我们俩最先遇到的矛盾，这矛盾如此尖锐，以至于我们根本不敢谈论。</p>
 <p>刚刚我在收拾S的东西，越收拾越觉得呼吸困难，心里堵得慌，就想着写点东西排解一下。没想到越回忆越难过……东西似乎已经收拾好了，那就这样吧。</p>
 <p>……</p>
 <p>我都26岁了，但我真的不懂爱情，并且感觉自己再也遇不到爱情了。年轻的朋友们，十八九岁时，一定要好好谈谈情说说爱。</p>
-]]></description>
-                
-                
-                
-                
+]]></content>
+            
+            
+            
+            
+            
                 
                     
                         
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/categories/%E5%BF%83%E6%83%85%E7%9B%B8%E5%85%B3/">心情相关</category>
-                                
                             
-                        
-                    
-                        
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/%E7%88%B1%E6%83%85/">爱情</category>
-                                
+                                <category scheme="https://yw9.github.io/categories/%E5%BF%83%E6%83%85%E7%9B%B8%E5%85%B3/" term="心情相关" label="心情相关" />
                             
                         
                     
                 
-            </item>
-        
-            <item>
-                <title>错过</title>
-                <link>https://yw9.github.io/posts/%E9%94%99%E8%BF%87/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E9%94%99%E8%BF%87/</guid>
-                <pubDate>Fri, 10 Apr 2020 22:06:01 +0000</pubDate>
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yw9.github.io/tags/%E7%88%B1%E6%83%85/" term="爱情" label="爱情" />
+                            
+                        
+                    
                 
-                    <author>ywshi@live.cn (Owen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description><![CDATA[<p>隔壁房间有窸窸窣窣的声音，伴随着男人的低声咳嗽，合租的室友已经洗漱完毕准备出门了。俞是看看表，才刚过5点。翻一翻身，俞是开始后悔昨晚竟没有坚守自己睡前渴死不喝水的人生信条，他感受到了自己肿胀坚挺的下体，膀胱的充实感让他断定里面不是血液而是尿液。</p>
+            
+        </entry>
+    
+        <entry>
+            <title type="text">错过</title>
+            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/%E9%94%99%E8%BF%87/" />
+            <id>https://yw9.github.io/posts/%E9%94%99%E8%BF%87/</id>
+            <updated>2020-04-26T19:10:19+08:00</updated>
+            <published>2020-04-10T22:06:01+00:00</published>
+            <author>
+                    <name>Owen</name>
+                    <uri>https://yw9.github.io</uri>
+                    <email>ywshi@live.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[隔壁房间有窸窸窣窣的声音，伴随着男人的低声咳嗽，合租的室友已经洗漱完毕准备出门了。俞是看看表，才刚过5点。翻一翻身，俞是开始后悔昨晚竟没有坚守自己睡前渴死不喝水的人生信条，他感受到了自己肿胀坚挺的下体，膀胱的充实感让他断定里面不是血液而是尿……]]></summary>
+            
+                <content type="html"><![CDATA[<p>隔壁房间有窸窸窣窣的声音，伴随着男人的低声咳嗽，合租的室友已经洗漱完毕准备出门了。俞是看看表，才刚过5点。翻一翻身，俞是开始后悔昨晚竟没有坚守自己睡前渴死不喝水的人生信条，他感受到了自己肿胀坚挺的下体，膀胱的充实感让他断定里面不是血液而是尿液。</p>
 <p>睡意也随着尿一起排空了，躺在床上，俞是翻出手机滑动。昨晚睡前刷过的朋友圈仅有一条更新，那是一个平时怎么也不会跑到脑海里的名字，但是一看到这几个字记忆的闸门就止不住。</p>
 <p>三年前，俞是还在上大学，那时的支付宝很想在社交领域与微信掰掰手腕，于是推出了很多社交的功能，但只有二手买卖区在俞是的学校流行。俞是把自己亚马逊凑单买回来还没看过的一本书也挂在了上面，价格很低。</p>
 <p>很快就有人询问，自然是同一个学校的。俞是支付宝的个人背景是黑豹乐队的一张图片，是他随便找来的。然而这让那位买书的女生打开了话匣，她说自己也喜欢摇滚。有人主动搭话，俞是自然不会错过，有一搭没一搭的和她聊了很多，二人的关系陡然亲近了不少。特别是得知女生是艺术学院的以后，俞是的想象力马上变得丰富起来。平日里俞是也经常可以遇到艺术学院的女生，据他观察，她们单独行走时，大都目不斜视，高昂着头，流露出一种生人勿近的神情；但当她们和男同学们走在一起时，又往往嘻嘻哈哈，勾肩搭背，同样得旁若无人。遇到她们，俞是总也忍不住偷觑她们热裤下占身体三分之二的长腿。</p>
@@ -100,47 +98,52 @@
 <p>这次分别以后，思影吐烟圈的样子在俞是脑海盘旋了好久。这些烟圈逐渐变大变浓，变成了一道屏障，遮住了思影，俞是怎么也看不清她的模样。虽然思影让俞是帮忙拿得快递还没来得及给她，但故事至此就戛然而止，俞是连一点细节都无法想起了。</p>
 <p>想到这里，俞是翻身下床，从柜子里翻出了当时帮思影拿的快递，那是一本书，叫做《老三毛阿达姆松》。</p>
 <p>看到书还在，俞是松了口气，马上在思影的朋友圈下发了一条评论：睡得真晚。</p>
-]]></description>
-                
-                
-                
-                
+]]></content>
+            
+            
+            
+            
+            
                 
                     
                         
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/categories/%E5%B0%8F%E8%AF%B4/">小说</category>
-                                
                             
-                        
-                    
-                        
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/%E7%88%B1%E6%83%85/">爱情</category>
-                                
+                                <category scheme="https://yw9.github.io/categories/%E5%B0%8F%E8%AF%B4/" term="小说" label="小说" />
                             
                         
                     
                 
-            </item>
-        
-            <item>
-                <title>macOS开机自动连接蓝牙音箱解决方案</title>
-                <link>https://yw9.github.io/posts/macos%E8%87%AA%E5%8A%A8%E8%BF%9E%E6%8E%A5%E8%93%9D%E7%89%99%E9%9F%B3%E7%AE%B1%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/macos%E8%87%AA%E5%8A%A8%E8%BF%9E%E6%8E%A5%E8%93%9D%E7%89%99%E9%9F%B3%E7%AE%B1%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</guid>
-                <pubDate>Sat, 04 Apr 2020 22:52:17 +0000</pubDate>
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yw9.github.io/tags/%E7%88%B1%E6%83%85/" term="爱情" label="爱情" />
+                            
+                        
+                    
                 
-                    <author>ywshi@live.cn (Owen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description><![CDATA[<p>年前逛张大妈的时候跟风买了一台“云轩h170”准系统，配上CPU、内存、硬盘后装macOS来用，目前使用下来还不错。不过，可能是出于成本的考量，这台主机是没有音频接口的，为此我买了一个带声卡的Type-C转3.5mm的转接头用来接耳机。但是我其实是不喜欢一直带着耳机的，所以平时主要是用蓝牙连接小度音箱外放使用。这样使用唯一的麻烦就是每次开机都要手动连接一下音箱。今天试着网上搜索了一下，其实是有解决方案的，下面记录一下。</p>
+            
+        </entry>
+    
+        <entry>
+            <title type="text">macOS开机自动连接蓝牙音箱解决方案</title>
+            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/macos%E8%87%AA%E5%8A%A8%E8%BF%9E%E6%8E%A5%E8%93%9D%E7%89%99%E9%9F%B3%E7%AE%B1%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/" />
+            <id>https://yw9.github.io/posts/macos%E8%87%AA%E5%8A%A8%E8%BF%9E%E6%8E%A5%E8%93%9D%E7%89%99%E9%9F%B3%E7%AE%B1%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</id>
+            <updated>2020-04-26T19:13:23+08:00</updated>
+            <published>2020-04-04T22:52:17+00:00</published>
+            <author>
+                    <name>Owen</name>
+                    <uri>https://yw9.github.io</uri>
+                    <email>ywshi@live.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[年前逛张大妈的时候跟风买了一台“云轩h170”准系统，配上CPU、内存、硬盘后装macOS来用，目前使用下来还不错。不过，可能是出于成本的考量，这台主机是没有音频接口的，为此我买了一个带声卡的Type-C转3.5mm的转接头用来接耳机。但是……]]></summary>
+            
+                <content type="html"><![CDATA[<p>年前逛张大妈的时候跟风买了一台“云轩h170”准系统，配上CPU、内存、硬盘后装macOS来用，目前使用下来还不错。不过，可能是出于成本的考量，这台主机是没有音频接口的，为此我买了一个带声卡的Type-C转3.5mm的转接头用来接耳机。但是我其实是不喜欢一直带着耳机的，所以平时主要是用蓝牙连接小度音箱外放使用。这样使用唯一的麻烦就是每次开机都要手动连接一下音箱。今天试着网上搜索了一下，其实是有解决方案的，下面记录一下。</p>
 <h1 id="applescript">AppleScript</h1>
 <p>AppleScript是用在macOS上的脚本语言，与系统结合非常紧密，操作起来也很方便。我在网上搜到了这个<a href="https://stackoverrun.com/cn/q/4771043">&quot;Connect to bluetooth device (iPhone) via command line on MacOSX&quot;</a>，里面的脚本是用来自动连接iPhone的，连接音箱也是一个原理。根据我的需求，我稍微做了一点修改。</p>
 <div class="highlight"><div class="chroma">
@@ -208,53 +211,58 @@
 <p>把刚才写好的脚本复制进来，然后保存。</p>
 <p><img src="https://i.loli.net/2020/04/08/1P2UkZyEhtlrz5o.png" alt=""></p>
 <p>这样就获得了一个app，把app放到dock栏上，选择登录时打开。就可以了。登录后，菜单栏会有一个转动的齿轮，表示脚本正在运行。</p>
-]]></description>
-                
-                
-                
-                
+]]></content>
+            
+            
+            
+            
+            
                 
                     
                         
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/">计算机相关</category>
-                                
                             
-                        
-                    
-                        
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/macos/">macOS</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/applescript/">AppleScript</category>
-                                
+                                <category scheme="https://yw9.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/" term="计算机相关" label="计算机相关" />
                             
                         
                     
                 
-            </item>
-        
-            <item>
-                <title>米boy的自我修养</title>
-                <link>https://yw9.github.io/posts/%E7%B1%B3boy%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E7%B1%B3boy%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/</guid>
-                <pubDate>Mon, 23 Mar 2020 08:22:41 +0000</pubDate>
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yw9.github.io/tags/macos/" term="macOS" label="macOS" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://yw9.github.io/tags/applescript/" term="AppleScript" label="AppleScript" />
+                            
+                        
+                    
                 
-                    <author>ywshi@live.cn (Owen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description><![CDATA[<p>知道小米的时候还在上高中，根本就没机会用手机，所以也就不存在比较不同手机之间的区别。即便如此，我还是知道小米——从同学们的课余的谈资中。红米手机第一次发售时的广告效果很不错，我这个一个月摸一次手机的高中生都知道可以在QQ空间抢999元的红米手机。当时根本没有购买需求，但还是随大流抢了一波，因为根据当时的宣传效果来看，似乎抢到不是花钱，而是赚了钱。这样的营销手段，至今流淌在小米的血液中。当然了，红米手机我并没有抢到。
+            
+        </entry>
+    
+        <entry>
+            <title type="text">米boy的自我修养</title>
+            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/%E7%B1%B3boy%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/" />
+            <id>https://yw9.github.io/posts/%E7%B1%B3boy%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/</id>
+            <updated>2020-04-26T19:12:23+08:00</updated>
+            <published>2020-03-23T08:22:41+00:00</published>
+            <author>
+                    <name>Owen</name>
+                    <uri>https://yw9.github.io</uri>
+                    <email>ywshi@live.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[知道小米的时候还在上高中，根本就没机会用手机，所以也就不存在比较不同手机之间的区别。即便如此，我还是知道小米——从同学们的课余的谈资中。红米手机第一次发售时的广告效果很不错，我这个一个月摸一次手机的高中生都知道可以在QQ空间抢999元的红米……]]></summary>
+            
+                <content type="html"><![CDATA[<p>知道小米的时候还在上高中，根本就没机会用手机，所以也就不存在比较不同手机之间的区别。即便如此，我还是知道小米——从同学们的课余的谈资中。红米手机第一次发售时的广告效果很不错，我这个一个月摸一次手机的高中生都知道可以在QQ空间抢999元的红米手机。当时根本没有购买需求，但还是随大流抢了一波，因为根据当时的宣传效果来看，似乎抢到不是花钱，而是赚了钱。这样的营销手段，至今流淌在小米的血液中。当然了，红米手机我并没有抢到。
 后来小米的名声越来越响，并且开始生产并销售很多手机以外的东西，我也逐渐变成了一个米boy。</p>
 <h2 id="一米家-wiha-螺丝刀">一、米家 wiha 螺丝刀</h2>
 <p>这款螺丝刀我还是非常满意的，因为我用它基本就是拆拆手机或电脑主机，完全够用。试问哪个男孩子不想拥有一套可以拆解各种东西的螺丝刀套装呢？所以这款颜值如此出众的螺丝刀一经公布，就妥妥地在我心里种了草。很不幸地是，刚开始也要抢。我就暂时没去被“耍”。大概是17年年底，小米搞了一个感恩季，送了我100块钱无门槛券。我果断付10块邮费买了一个。</p>
@@ -270,45 +278,50 @@
 <p>因为常年手机静音，所以消息提醒就靠它，电量还算持久，基本上一周多一点充一次。公交卡在上面，出门挺方便。本来单位的门禁卡、小区门卡也绑在了上面，后来单位门禁卡升级，用不了了（小区门禁卡是半加密的，为了模拟还特意买了PN532）。佩戴久了以后，汗渍灰尘会导致充电底座与手环接触不良，充不进电，需要用纸擦拭。</p>
 <h2 id="七米家电磁炉">七、米家电磁炉</h2>
 <p>说起来这款产品我还挺喜欢的，虽然比一般的电磁炉贵一点，但是它的颜值比较高，温度可调节的范围也广。一年多时间里，它解决了我没有厨房的尴尬。我的厨艺就是在它身上“精进”的，所以我对它很有感情。然而，两个星期前，它的开关突然有些失灵。上网一查不要紧，竟然又是设计缺陷导致的通病。贴个<a href="https://post.smzdm.com/p/ag826mlw/">链接</a>，大家可以看一下。根据网友的教程，我修好了它。希望小米能吸取教训，不要犯这种低级错误。</p>
-]]></description>
+]]></content>
+            
+            
+            
+            
+            
                 
-                
-                
-                
+                    
                 
                     
                         
-                    
+                            
+                            
+                            
+                                <category scheme="https://yw9.github.io/tags/%E5%B0%8F%E7%B1%B3/" term="小米" label="小米" />
+                            
                         
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/%E5%B0%8F%E7%B1%B3/">小米</category>
-                                
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97/">使用心得</category>
-                                
+                            
+                                <category scheme="https://yw9.github.io/tags/%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97/" term="使用心得" label="使用心得" />
                             
                         
                     
                 
-            </item>
-        
-            <item>
-                <title>给你的小纸条也可能是他印象最深的</title>
-                <link>https://yw9.github.io/posts/%E7%BB%99%E4%BD%A0%E7%9A%84%E5%B0%8F%E7%BA%B8%E6%9D%A1%E4%B9%9F%E5%8F%AF%E8%83%BD%E6%98%AF%E4%BB%96%E5%8D%B0%E8%B1%A1%E6%9C%80%E6%B7%B1%E7%9A%84/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E7%BB%99%E4%BD%A0%E7%9A%84%E5%B0%8F%E7%BA%B8%E6%9D%A1%E4%B9%9F%E5%8F%AF%E8%83%BD%E6%98%AF%E4%BB%96%E5%8D%B0%E8%B1%A1%E6%9C%80%E6%B7%B1%E7%9A%84/</guid>
-                <pubDate>Tue, 19 Feb 2019 19:50:44 +0000</pubDate>
-                
-                    <author>ywshi@live.cn (Owen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description><![CDATA[<p>从农村的初中跑到县里上高中曾带给我很强的自卑感，对于班级里那些穿着超短裤，打扮时髦的女同学，我甚至连看都不敢看，更别说交流了。还好有一群同样来自农村，性格开朗的男同学带我一起玩耍，给我起外号，让我不至于太过孤僻。</p>
+            
+        </entry>
+    
+        <entry>
+            <title type="text">给你的小纸条也可能是他印象最深的</title>
+            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/%E7%BB%99%E4%BD%A0%E7%9A%84%E5%B0%8F%E7%BA%B8%E6%9D%A1%E4%B9%9F%E5%8F%AF%E8%83%BD%E6%98%AF%E4%BB%96%E5%8D%B0%E8%B1%A1%E6%9C%80%E6%B7%B1%E7%9A%84/" />
+            <id>https://yw9.github.io/posts/%E7%BB%99%E4%BD%A0%E7%9A%84%E5%B0%8F%E7%BA%B8%E6%9D%A1%E4%B9%9F%E5%8F%AF%E8%83%BD%E6%98%AF%E4%BB%96%E5%8D%B0%E8%B1%A1%E6%9C%80%E6%B7%B1%E7%9A%84/</id>
+            <updated>2020-04-26T19:10:52+08:00</updated>
+            <published>2019-02-19T19:50:44+00:00</published>
+            <author>
+                    <name>Owen</name>
+                    <uri>https://yw9.github.io</uri>
+                    <email>ywshi@live.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[从农村的初中跑到县里上高中曾带给我很强的自卑感，对于班级里那些穿着超短裤，打扮时髦的女同学，我甚至连看都不敢看，更别说交流了。还好有一群同样来自农村，性格开朗的男同学带我一起玩耍，给我起外号，让我不至于太过孤僻。 到了高二，文理分科，数学一塌……]]></summary>
+            
+                <content type="html"><![CDATA[<p>从农村的初中跑到县里上高中曾带给我很强的自卑感，对于班级里那些穿着超短裤，打扮时髦的女同学，我甚至连看都不敢看，更别说交流了。还好有一群同样来自农村，性格开朗的男同学带我一起玩耍，给我起外号，让我不至于太过孤僻。</p>
 <p>到了高二，文理分科，数学一塌糊涂的我只好选择文科，那帮兄弟们偏偏理科更强，纷纷离我而去。文科班男生更少，一个宿舍就装得下。人数一少，互相之间的交流就更充分。所以没过多久，大家就开始讨论喜欢谁了。看着他们都有心头的牵挂，我也不想落后，就选择了隔壁班一个长得有点像马苏的女孩作为牵挂对象。也许那时是我情窦开得最大的时候，所以选定她以后，我真的好像喜欢上了她。</p>
 <p>于是我找到班里的一个女生，让她给我一下马苏的QQ号。这个女生是马苏以前的同学，她是有马苏QQ号的，但她偏偏自己去要。当马苏亲笔写的小纸条递到我手里时，我的心几乎跑到了嗓子眼，似乎拿到QQ号就等于拥有了她。但事实是，我们高中一个月才放一次假。在等待回家的日子里，我把这串数字背诵了1000遍，到现在我还记得前三位（不知道是不是因为她QQ号的前三位和我QQ号的前三位正好相反）。</p>
 <p>仅仅是通过QQ似乎不能让我们的关系得到实质性的进展，况且这样的交流一个月才有一次，还不能给她带来痛苦，所以马苏可能根本不记得我。是该作出改变了！于是在圣诞节到来前夕，在大家都在送苹果的日子里，我鬼使神差般地拦住了她，并且表了白。我至今都想不明白自己的勇气来自何处，我本来是想和她聊聊天的，毕竟我们也算网友。但我没有找到话题，只好说了简单明了的四个字。她表现得很淡定，说自己知道。又说你很厉害啊，考了第一名。我不记得我们是如何结束对话的，我的兴奋点在于她竟然知道我。</p>
@@ -323,31 +336,36 @@
 <p>那时我怎么也不会想到，五六年后的今天，那仍然是我听到的唯一一次表白。</p>
 <p>更让人难过的是，无刘海后来的表现让我不断怀疑她不过是逢场作戏——调完座位没多久，她就不怎么理我，并且和另一个男生搞到了一起。最近，通过高中同学的朋友圈，我得知无刘海已经和当时那个男生订婚了。</p>
 <p>那位同学的朋友圈是这么写得：还记得当时我帮你们传纸条，没想到这么快你们就订婚了，一定要幸福哟。</p>
-]]></description>
-                
-                
-                
-                
+]]></content>
+            
+            
+            
+            
+            
                 
                     
-                        
-                    
-                        
+                
                     
                 
-            </item>
-        
-            <item>
-                <title>年龄问题</title>
-                <link>https://yw9.github.io/posts/%E5%B9%B4%E9%BE%84%E9%97%AE%E9%A2%98/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E5%B9%B4%E9%BE%84%E9%97%AE%E9%A2%98/</guid>
-                <pubDate>Thu, 24 Jan 2019 19:20:55 +0000</pubDate>
-                
-                    <author>ywshi@live.cn (Owen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description><![CDATA[<p>我发现我对自己的年龄有偏见。</p>
+            
+        </entry>
+    
+        <entry>
+            <title type="text">年龄问题</title>
+            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/%E5%B9%B4%E9%BE%84%E9%97%AE%E9%A2%98/" />
+            <id>https://yw9.github.io/posts/%E5%B9%B4%E9%BE%84%E9%97%AE%E9%A2%98/</id>
+            <updated>2020-04-26T19:12:31+08:00</updated>
+            <published>2019-01-24T19:20:55+00:00</published>
+            <author>
+                    <name>Owen</name>
+                    <uri>https://yw9.github.io</uri>
+                    <email>ywshi@live.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[我发现我对自己的年龄有偏见。 这偏见主要在于我不能向透露身高那样干脆地把年龄透露给别人。我会先说自己是90后，企图蒙混过关。有人会说，你这一蒙混就想蒙混10岁啊。但是其实只能蒙混5岁，因为大多数95后是会直接说自己是95后的。如果90后这个答……]]></summary>
+            
+                <content type="html"><![CDATA[<p>我发现我对自己的年龄有偏见。</p>
 <p>这偏见主要在于我不能向透露身高那样干脆地把年龄透露给别人。我会先说自己是90后，企图蒙混过关。有人会说，你这一蒙混就想蒙混10岁啊。但是其实只能蒙混5岁，因为大多数95后是会直接说自己是95后的。如果90后这个答案不能满足询问者的好奇心，那我也只好如实交待，“94年的，94年12月。”“94年12月”是我每次都必须加上的限定词，目的只有一个，证明自己的年龄小。之所以想证明自己年龄小，是因为在我的观察以及社会主流认知里，94年的人应该已经工作两年了，可事实是2018年我才刚刚踏上工作岗位。这种反向地脱离主流让我这个喜欢随大流的人十分困扰。</p>
 <p>之所以出现这种情况，有两个非常简单的原因：一是我出生的月份比较小；二是我高三之后复读了一年。</p>
 <p>9月份之后出生的孩子不能在满6周岁当年上一年级是教育部门的一个不成文的规定，所以我是在7岁时才上一年级，由于家乡都算虚岁，所以我妈一直说我是8岁上一年级。如果不是抽空算了算，我还真以为自己小时候就是个智障——因为大家都说自己6岁上的一年级。但是仔细想想主流话语体系却又不够严谨。我们假设所有人都是按照学校规定9月1日之前不满6周岁的不去上一年级，这就导致出生在9月、10月、11月、12月的孩子会在“大一岁”的情况下开始学业。匆匆16年学业结束，1到8月出生的孩子在22岁时大学毕业踏上了工作岗位，于是社会普遍的话语体系就是22岁大学毕业，但实际上有三分之一的人是在23岁毕业。但是因为22岁毕业的人多，所以我们这群少数人只好接受这种“暴政”。</p>
@@ -364,31 +382,36 @@
 <p>招聘也罢，考试也罢，都要限制年龄。二十五六岁就要结婚，四十岁往上还要被清退。大龄未婚就叫“剩女”，黄昏恋多数变成新闻。男士到了一定年龄就成了老头，女士到了一定年龄自然是老太太。二三十岁就该拼命工作，退休了就要养鸟浇花。</p>
 <p>我们能不能对年龄宽容一点？三十多岁没结婚的女生也仅仅是个普通的女生，七十岁结婚的男士也是真的遇到了爱情。不管哪个年龄段，我们每个人都要经过，那为何不能对每个年龄段的人都宽容一点呢？这也是对自己宽容啊。</p>
 <p>（不对，你爸妈之所以对你的年龄不宽容，是因为他们已经走过你的年龄段了）</p>
-]]></description>
-                
-                
-                
-                
+]]></content>
+            
+            
+            
+            
+            
                 
                     
-                        
-                    
-                        
+                
                     
                 
-            </item>
-        
-            <item>
-                <title>利用Windows内置Linux子系统搭建Hexo静态博客</title>
-                <link>https://yw9.github.io/posts/%E5%88%A9%E7%94%A8windows%E5%86%85%E7%BD%AElinux%E5%AD%90%E7%B3%BB%E7%BB%9F%E6%90%AD%E5%BB%BAhexo%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E5%88%A9%E7%94%A8windows%E5%86%85%E7%BD%AElinux%E5%AD%90%E7%B3%BB%E7%BB%9F%E6%90%AD%E5%BB%BAhexo%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</guid>
-                <pubDate>Tue, 19 Sep 2017 14:09:27 +0000</pubDate>
-                
-                    <author>ywshi@live.cn (Owen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/1009573-78b2859caeb228b5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+            
+        </entry>
+    
+        <entry>
+            <title type="text">利用Windows内置Linux子系统搭建Hexo静态博客</title>
+            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/%E5%88%A9%E7%94%A8windows%E5%86%85%E7%BD%AElinux%E5%AD%90%E7%B3%BB%E7%BB%9F%E6%90%AD%E5%BB%BAhexo%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/" />
+            <id>https://yw9.github.io/posts/%E5%88%A9%E7%94%A8windows%E5%86%85%E7%BD%AElinux%E5%AD%90%E7%B3%BB%E7%BB%9F%E6%90%AD%E5%BB%BAhexo%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</id>
+            <updated>2020-04-26T19:12:03+08:00</updated>
+            <published>2017-09-19T14:09:27+00:00</published>
+            <author>
+                    <name>Owen</name>
+                    <uri>https://yw9.github.io</uri>
+                    <email>ywshi@live.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[之前博客是在Windows上搭建的，后来Windows 10内置了linux子系统，我就想能不能在这个子系统里搭建一个静态博客，因为这样就无需安装nodejs和git了。中途遇到了很多问题，直到今天才终于成功。下面记录一下过程。 启用linux……]]></summary>
+            
+                <content type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/1009573-78b2859caeb228b5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
 <p>之前博客是在Windows上搭建的，后来Windows 10内置了linux子系统，我就想能不能在这个子系统里搭建一个静态博客，因为这样就无需安装nodejs和git了。中途遇到了很多问题，直到今天才终于成功。下面记录一下过程。</p>
 <h1 id="启用linux子系统">启用linux子系统</h1>
 <p>首先在设置里启用开发者模式，然后启用或关闭Windows功能里勾选“适用于Linux的Windows子系统”，重启后在命令提示符里输入“bash”后回车，确认后就开始下载子系统了。下载结束后，在开始菜单里会出现一个Ubuntu的图标，打开以后就是Linux子系统了。</p>
@@ -535,47 +558,52 @@ deploy:
 
 </code></pre><h1 id="修改永久链接默认显示方式">修改永久链接默认显示方式</h1>
 <p><a href="https://blog.csdn.net/lewky_liu/article/details/80517635">参考这里</a></p>
-]]></description>
-                
-                
-                
-                
+]]></content>
+            
+            
+            
+            
+            
                 
                     
                         
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/">计算机相关</category>
-                                
                             
-                        
-                    
-                        
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/">静态博客</category>
-                                
+                                <category scheme="https://yw9.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/" term="计算机相关" label="计算机相关" />
                             
                         
                     
                 
-            </item>
-        
-            <item>
-                <title>Windows系统备份</title>
-                <link>https://yw9.github.io/posts/windows%E7%B3%BB%E7%BB%9F%E5%A4%87%E4%BB%BD/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/windows%E7%B3%BB%E7%BB%9F%E5%A4%87%E4%BB%BD/</guid>
-                <pubDate>Mon, 18 Sep 2017 21:10:17 +0000</pubDate>
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yw9.github.io/tags/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/" term="静态博客" label="静态博客" />
+                            
+                        
+                    
                 
-                    <author>ywshi@live.cn (Owen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/1009573-94e417a82fe98922.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="桌面镇楼">
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Windows系统备份</title>
+            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/windows%E7%B3%BB%E7%BB%9F%E5%A4%87%E4%BB%BD/" />
+            <id>https://yw9.github.io/posts/windows%E7%B3%BB%E7%BB%9F%E5%A4%87%E4%BB%BD/</id>
+            <updated>2020-04-26T19:13:33+08:00</updated>
+            <published>2017-09-18T21:10:17+00:00</published>
+            <author>
+                    <name>Owen</name>
+                    <uri>https://yw9.github.io</uri>
+                    <email>ywshi@live.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[不知从什么时候起，我养成了自己的一套使用Windows 10的习惯，总结起来就是以下三点： 只安装必须的软件 有Portable版本就不用安装版 有UWP版本就用UWP版本（不管它有多么简陋） 我基于以上三点打造了自己顺手的电脑，现在想要把电脑中的软……]]></summary>
+            
+                <content type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/1009573-94e417a82fe98922.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="桌面镇楼">
 不知从什么时候起，我养成了自己的一套使用Windows 10的习惯，总结起来就是以下三点：</p>
 <ul>
 <li>只安装必须的软件</li>
@@ -624,47 +652,52 @@ deploy:
 </ol>
 <p>UWP版软件安装卸载都很方便，所以是动态变化的。</p>
 <p>待续……</p>
-]]></description>
-                
-                
-                
-                
+]]></content>
+            
+            
+            
+            
+            
                 
                     
                         
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/">计算机相关</category>
-                                
                             
-                        
-                    
-                        
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/windows/">Windows</category>
-                                
+                                <category scheme="https://yw9.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/" term="计算机相关" label="计算机相关" />
                             
                         
                     
                 
-            </item>
-        
-            <item>
-                <title>我的人格缺陷</title>
-                <link>https://yw9.github.io/posts/%E6%88%91%E7%9A%84%E4%BA%BA%E6%A0%BC%E7%BC%BA%E9%99%B7/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E6%88%91%E7%9A%84%E4%BA%BA%E6%A0%BC%E7%BC%BA%E9%99%B7/</guid>
-                <pubDate>Wed, 03 May 2017 12:20:04 +0000</pubDate>
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yw9.github.io/tags/windows/" term="Windows" label="Windows" />
+                            
+                        
+                    
                 
-                    <author>ywshi@live.cn (Owen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description><![CDATA[<p>看了一篇文章，感触颇深，然而想要表达时却又千头万绪。暂且先把文章贴在这儿。文章的标题叫做《为什么你总是这么被动？》。</p>
+            
+        </entry>
+    
+        <entry>
+            <title type="text">我的人格缺陷</title>
+            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/%E6%88%91%E7%9A%84%E4%BA%BA%E6%A0%BC%E7%BC%BA%E9%99%B7/" />
+            <id>https://yw9.github.io/posts/%E6%88%91%E7%9A%84%E4%BA%BA%E6%A0%BC%E7%BC%BA%E9%99%B7/</id>
+            <updated>2020-04-26T19:13:07+08:00</updated>
+            <published>2017-05-03T12:20:04+00:00</published>
+            <author>
+                    <name>Owen</name>
+                    <uri>https://yw9.github.io</uri>
+                    <email>ywshi@live.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[看了一篇文章，感触颇深，然而想要表达时却又千头万绪。暂且先把文章贴在这儿。文章的标题叫做《为什么你总是这么被动？》。 01 你是被动的人吗？ 生活中我们会经常遇见一种人，从不主动，特别被动，比如在男女感情里，有些从不主动追求女孩，有些人必须要等别人……]]></summary>
+            
+                <content type="html"><![CDATA[<p>看了一篇文章，感触颇深，然而想要表达时却又千头万绪。暂且先把文章贴在这儿。文章的标题叫做《为什么你总是这么被动？》。</p>
 <p>01</p>
 <p>你是被动的人吗？</p>
 <p>生活中我们会经常遇见一种人，从不主动，特别被动，比如在男女感情里，有些从不主动追求女孩，有些人必须要等别人主动太能谈恋爱，俩被动的人明明彼此有意，但因为俩性格都被动，结果谁都无法先跨出那一步，最后杀进了个主动的人，恋情就此告吹。</p>
@@ -731,47 +764,52 @@ deploy:
 <p>这个改变就是一点一点的感受你自己的需求，不要泯灭它，勇敢的把它提出来，你应该为自己的需求而活。</p>
 <p>最后，其实想说的是，生命这么短暂，一个人怎么能忍心让自己如此蜷缩的活着？那也太对不起自己了，怎么样也应该豁出去活一场啊。不然呢，畏畏缩缩，你究竟在害怕什么呢？</p>
 <p>文章来自：http://itindex.net/detail/56884-</p>
-]]></description>
-                
-                
-                
-                
+]]></content>
+            
+            
+            
+            
+            
                 
                     
                         
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/categories/%E5%BF%83%E6%83%85%E7%9B%B8%E5%85%B3/">心情相关</category>
-                                
                             
-                        
-                    
-                        
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/%E5%BF%83%E7%90%86%E5%AD%A6/">心理学</category>
-                                
+                                <category scheme="https://yw9.github.io/categories/%E5%BF%83%E6%83%85%E7%9B%B8%E5%85%B3/" term="心情相关" label="心情相关" />
                             
                         
                     
                 
-            </item>
-        
-            <item>
-                <title>就医记</title>
-                <link>https://yw9.github.io/posts/%E5%B0%B1%E5%8C%BB%E8%AE%B0/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E5%B0%B1%E5%8C%BB%E8%AE%B0/</guid>
-                <pubDate>Wed, 08 Mar 2017 17:00:14 +0000</pubDate>
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yw9.github.io/tags/%E5%BF%83%E7%90%86%E5%AD%A6/" term="心理学" label="心理学" />
+                            
+                        
+                    
                 
-                    <author>ywshi@live.cn (Owen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description><![CDATA[<p>拖了好久的鼻子问题，在和爸妈说过之后，我终于决定去医院看看。</p>
+            
+        </entry>
+    
+        <entry>
+            <title type="text">就医记</title>
+            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/%E5%B0%B1%E5%8C%BB%E8%AE%B0/" />
+            <id>https://yw9.github.io/posts/%E5%B0%B1%E5%8C%BB%E8%AE%B0/</id>
+            <updated>2020-04-26T19:11:51+08:00</updated>
+            <published>2017-03-08T17:00:14+00:00</published>
+            <author>
+                    <name>Owen</name>
+                    <uri>https://yw9.github.io</uri>
+                    <email>ywshi@live.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[拖了好久的鼻子问题，在和爸妈说过之后，我终于决定去医院看看。 早晨没吃饭，起床先把手机刷成了安卓5.0，由于网络太差，光下载刷机包就下了好久，期间我看完了《食神》。值得庆幸的是，在我不使用Google服务的安卓5.0上，电量似乎可以正常了。到……]]></summary>
+            
+                <content type="html"><![CDATA[<p>拖了好久的鼻子问题，在和爸妈说过之后，我终于决定去医院看看。</p>
 <p>早晨没吃饭，起床先把手机刷成了安卓5.0，由于网络太差，光下载刷机包就下了好久，期间我看完了《食神》。值得庆幸的是，在我不使用Google服务的安卓5.0上，电量似乎可以正常了。到现在为止，重启有过两次。姑且使用这样的组合。</p>
 <p>中午在食堂遇见了子健，他说我不妨去独墅湖科教区医院，因为大医院会有过度医治的情况。我听了他的。步行去了独墅湖科教创新区医院。之所以步行，一是想锻炼锻炼，晒晒太阳；其次是自己很不情愿就医，想着自己一直健健康康，小毛病很简单就扛过来了。半道上想起自己一分钱都没带，还好医院旁边有取款机。进去挂号，我想挂耳鼻喉科，可前台的人说没有这一科，问我是挂全科还是去别的地方。好像是给了我不就医的理由，于是我说去别的医院。</p>
 <p>再次走在外面，温度适宜，风儿有些毛躁。多好的春光啊，我想，要是鼻子不捣乱多好。磨磨蹭蹭地走着，还是没决定去医院。快到雪塘街时，终于决定去医院。看了看地图，决定坐178到市立医院东区。上车后，我坐在了最后一排，有阳光洒在我肩头。颠簸的车渐渐勾出了我的睡意，迷迷糊糊间不知到了哪里。然而车里空气变得有些闷人，我甚至懒得掏手机。不知又行了几站，一个老大爷把车窗拉开了，顿时，清爽的空气袭来，我清醒了很多。</p>
@@ -781,39 +819,44 @@ deploy:
 <p>然后就回来了。</p>
 <p>夜跑前，hf让我签到。我是很不愿意的，可我却答应了。后来又改成替ljy签，最终只签了到，没签退。</p>
 <p>晚上爸妈早打电话来问我什么情况了，我告诉了他们。妈妈在干报石头的活，9个小时才80块钱，还特别累。爸爸吵她让她不干，我也非常不愿意她干。什么时候我能赚钱了，能让他们轻松一些？</p>
-]]></description>
-                
-                
-                
-                
+]]></content>
+            
+            
+            
+            
+            
                 
                     
                         
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/categories/%E5%BF%83%E6%83%85%E7%9B%B8%E5%85%B3/">心情相关</category>
-                                
+                            
+                            
+                                <category scheme="https://yw9.github.io/categories/%E5%BF%83%E6%83%85%E7%9B%B8%E5%85%B3/" term="心情相关" label="心情相关" />
                             
                         
                     
-                        
+                
                     
                 
-            </item>
-        
-            <item>
-                <title>如何管理你的密码——KeePass使用详解</title>
-                <link>https://yw9.github.io/posts/%E5%A6%82%E4%BD%95%E7%AE%A1%E7%90%86%E4%BD%A0%E7%9A%84%E5%AF%86%E7%A0%81keepass%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E5%A6%82%E4%BD%95%E7%AE%A1%E7%90%86%E4%BD%A0%E7%9A%84%E5%AF%86%E7%A0%81keepass%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/</guid>
-                <pubDate>Tue, 13 Dec 2016 14:42:41 +0000</pubDate>
-                
-                    <author>ywshi@live.cn (Owen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description><![CDATA[<p>前几天，一则题为“疑似京东12G用户数据外泄”的新闻使得大家又开始担忧起自己的账户安全。虽然京东对用户的密码进行了加密，但是如果你的密码太过简单，那么别有用心的人还是很容易在极短的时间内破解你的密码的。更为严重的是，现在很多人习惯于一条密码走天下，这无疑给自己的账户安全带来了极大的安全隐患。但如果过分追求密码的复杂程度，势必会带来无可避免的麻烦。所以，如何既能保证密码的复杂程度又能减少输入和记忆的麻烦成了很多人的刚需。于是，密码管理软件应运而生。目前，世面上的密码管理软件种类繁多，例如“1Password”、“LastPass”、“KeePass”等等，还有最近刚了解到的“LessPass”（LessPass与前面几个有所不同，它是根据你输入的主密码和账户信息计算一个密码出来，目前只有网页端，尚不完善）。在我看来，这些密码管理软件大体相同，差别就在于用户体验上。我刚接触此类软件时，1Password和LastPass都还是收费软件，至少想跨平台必须付费。于是我就选择了KeePass，主要是因为它免费。然而随着最近前两个软件逐渐免费，我也试着转移到它们上面，但却没有获得我从KeePass那儿得到的畅快感，所以，此篇教程是关于KeePass的。据说1Password在Mac和iOS上的表现更好，但我没有以上两种设备，所以按下不表。</p>
+            
+        </entry>
+    
+        <entry>
+            <title type="text">如何管理你的密码——KeePass使用详解</title>
+            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/%E5%A6%82%E4%BD%95%E7%AE%A1%E7%90%86%E4%BD%A0%E7%9A%84%E5%AF%86%E7%A0%81keepass%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/" />
+            <id>https://yw9.github.io/posts/%E5%A6%82%E4%BD%95%E7%AE%A1%E7%90%86%E4%BD%A0%E7%9A%84%E5%AF%86%E7%A0%81keepass%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/</id>
+            <updated>2020-04-26T19:12:59+08:00</updated>
+            <published>2016-12-13T14:42:41+00:00</published>
+            <author>
+                    <name>Owen</name>
+                    <uri>https://yw9.github.io</uri>
+                    <email>ywshi@live.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[前几天，一则题为“疑似京东12G用户数据外泄”的新闻使得大家又开始担忧起自己的账户安全。虽然京东对用户的密码进行了加密，但是如果你的密码太过简单，那么别有用心的人还是很容易在极短的时间内破解你的密码的。更为严重的是，现在很多人习惯于一条密码……]]></summary>
+            
+                <content type="html"><![CDATA[<p>前几天，一则题为“疑似京东12G用户数据外泄”的新闻使得大家又开始担忧起自己的账户安全。虽然京东对用户的密码进行了加密，但是如果你的密码太过简单，那么别有用心的人还是很容易在极短的时间内破解你的密码的。更为严重的是，现在很多人习惯于一条密码走天下，这无疑给自己的账户安全带来了极大的安全隐患。但如果过分追求密码的复杂程度，势必会带来无可避免的麻烦。所以，如何既能保证密码的复杂程度又能减少输入和记忆的麻烦成了很多人的刚需。于是，密码管理软件应运而生。目前，世面上的密码管理软件种类繁多，例如“1Password”、“LastPass”、“KeePass”等等，还有最近刚了解到的“LessPass”（LessPass与前面几个有所不同，它是根据你输入的主密码和账户信息计算一个密码出来，目前只有网页端，尚不完善）。在我看来，这些密码管理软件大体相同，差别就在于用户体验上。我刚接触此类软件时，1Password和LastPass都还是收费软件，至少想跨平台必须付费。于是我就选择了KeePass，主要是因为它免费。然而随着最近前两个软件逐渐免费，我也试着转移到它们上面，但却没有获得我从KeePass那儿得到的畅快感，所以，此篇教程是关于KeePass的。据说1Password在Mac和iOS上的表现更好，但我没有以上两种设备，所以按下不表。</p>
 <h3 id="软件介绍">软件介绍</h3>
 <p>KeePass是一款开源免费的密码管理软件，官方只开发了Windows版，但由于其开源，所以有很多优秀的第三方客户端，其中就包括我将要介绍的安卓版“KeePass2Android（把屁股对着安卓）”。下面我提供一下软件的下载地址：<a href="https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.34/KeePass-2.34-Setup.exe/download?accel_key=77%3A1481635302%3Ahttp%253A//keepass.info/download.html%3A5ebe6c7c%241dbc2236556de33f53c1af430403276531ee7569&amp;click_id=163af844-c137-11e6-9bc1-0200ac1d1d92-2&amp;source=accel">Windows版</a>；<a href="http://dl.coolapkmarket.com/down/apk_file/2016/1203/keepass2android.keepass2android-1.0.0-e-81.apk?_upt=a509ef691481637253">Android版</a>。需要注意的一点是，Windows版有两个系列，一个是经典版，一个是专业版，两个版本数据不通用，我推荐你用专业版。</p>
 <h3 id="windows版使用下详解">Windows版使用下详解</h3>
@@ -833,53 +876,58 @@ deploy:
 把用户名和密码依次输入完成后，点击完成就可以切换回之前的输入法，相当方便。而像1Password和LastPass都没有类似的功能。</p>
 <h3 id="最后">最后</h3>
 <p>以上就是我想分享的KeePass使用步骤详解，在我看来，这是非常方便而且安全的，希望大家能够尝试一下。</p>
-]]></description>
-                
-                
-                
-                
+]]></content>
+            
+            
+            
+            
+            
                 
                     
                         
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/">计算机相关</category>
-                                
                             
-                        
-                    
-                        
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/keepass/">KeePass</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/">网络安全</category>
-                                
+                                <category scheme="https://yw9.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/" term="计算机相关" label="计算机相关" />
                             
                         
                     
                 
-            </item>
-        
-            <item>
-                <title>偶记</title>
-                <link>https://yw9.github.io/posts/%E5%81%B6%E8%AE%B0/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E5%81%B6%E8%AE%B0/</guid>
-                <pubDate>Fri, 09 Dec 2016 15:06:31 +0000</pubDate>
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yw9.github.io/tags/keepass/" term="KeePass" label="KeePass" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://yw9.github.io/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/" term="网络安全" label="网络安全" />
+                            
+                        
+                    
                 
-                    <author>ywshi@live.cn (Owen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description><![CDATA[<h3 id="我争执的样子肯定很丑">我争执的样子肯定很丑</h3>
+            
+        </entry>
+    
+        <entry>
+            <title type="text">偶记</title>
+            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/%E5%81%B6%E8%AE%B0/" />
+            <id>https://yw9.github.io/posts/%E5%81%B6%E8%AE%B0/</id>
+            <updated>2020-04-26T19:12:45+08:00</updated>
+            <published>2016-12-09T15:06:31+00:00</published>
+            <author>
+                    <name>Owen</name>
+                    <uri>https://yw9.github.io</uri>
+                    <email>ywshi@live.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[我争执的样子肯定很丑 昨天的课上，老师让大家就“健康中国”发表演讲。每个人讲完后，老师进行会进行简短的点评，无一例外，都是夸赞，这让我对老师的好感大增。中午吃饭，和w君以及其他诸君一起。w君平日爱开老师玩笑，我也早就知道。吃饭的过程中，w君又……]]></summary>
+            
+                <content type="html"><![CDATA[<h3 id="我争执的样子肯定很丑">我争执的样子肯定很丑</h3>
 <p>昨天的课上，老师让大家就“健康中国”发表演讲。每个人讲完后，老师进行会进行简短的点评，无一例外，都是夸赞，这让我对老师的好感大增。中午吃饭，和w君以及其他诸君一起。w君平日爱开老师玩笑，我也早就知道。吃饭的过程中，w君又开起了玩笑。本来无伤大雅无有恶意的话，却触动了我敏感的神经，忍不住和w君争执了几句。我清晰地感觉到自己声音提高了分贝，血液涌上了脖子，整个人瞬间变得很热。刚说完话我就后悔了，我埋头吃饭，没敢看w君和其他诸君。可以想象，他们也很尴尬。原本稀松平常充满和气的午餐时间，因我高声的几句话而变得气氛凝重。我很自责。所幸的是，今日重和w君见面，我们都已“忘了”昨日的事了。今后，切忌过于敏感，切忌胡乱与人争执。我敢肯定，我争执的样子很丑。</p>
 <h3 id="像树叶一样飘零">像树叶一样飘零</h3>
 <p>昨天中午，在我和别人争执之前，我得到了一个相当震撼人心的消息：z因车祸而丧失。z曾是我们院学生会的主席，去年被保送本校的研究生。因为我大一的时候也曾在学生会里工作过，与z有过接触，平日里见到还会互相打招呼。z为人热情开朗，学习成绩也是相当出色（不然保不了研），去年，z曾到我们班分享过自己的学习经历，我清楚地记得底下有人发出“啧啧”的赞叹声。当我听到这个消息的时候，完全相信不了。我记得几天前还在食堂见到过z，那样一个鲜活的生命说没就没了？我愕然着，急切地想有什么办法证实一下，尽管w君们的消息来源已相当可靠。到了宿舍，舍友j说自己也得到了这个消息。我终于相信了，带着依旧沉重的心情。渐渐地，消息散播开来。我看到几乎每个听到此消息的人都表现出难以置信的样子。然而，事情就是发生了。脑海里浮现出了陶潜的诗：“亲戚或余悲，他人亦已歌。死去何所道，托体同山阿。”不得不说，陶潜豁达得有点没心没肺。</p>
@@ -887,47 +935,52 @@ deploy:
 <p>早晨在教室自习，窗外起风了，簌簌有声。我循声望去，大片的叶子被风裹挟着在空中旋转，远处的树上，留下的叶子也瑟瑟着。</p>
 <h3 id="折腾自己的成功人士">折腾自己的成功人士</h3>
 <p>前几日，网上流传着王健林的作息时间表，我们清楚地看到了首富一天忙碌精彩的生活。这新闻最后的总结就是成功人士很自律，该什么时候起床就什么时候起床。想着自己做不成伟人也不能掉队，所以这两天一醒来就穿衣下床了。自律，很难，很有效果。</p>
-]]></description>
-                
-                
-                
-                
+]]></content>
+            
+            
+            
+            
+            
                 
                     
                         
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/categories/%E5%BF%83%E6%83%85%E7%9B%B8%E5%85%B3/">心情相关</category>
-                                
                             
-                        
-                    
-                        
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
-                                
+                                <category scheme="https://yw9.github.io/categories/%E5%BF%83%E6%83%85%E7%9B%B8%E5%85%B3/" term="心情相关" label="心情相关" />
                             
                         
                     
                 
-            </item>
-        
-            <item>
-                <title>Ubuntu折腾札记</title>
-                <link>https://yw9.github.io/posts/ubuntu%E6%8A%98%E8%85%BE%E6%9C%AD%E8%AE%B0/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/ubuntu%E6%8A%98%E8%85%BE%E6%9C%AD%E8%AE%B0/</guid>
-                <pubDate>Fri, 25 Nov 2016 14:50:56 +0000</pubDate>
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yw9.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                            
+                        
+                    
                 
-                    <author>ywshi@live.cn (Owen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description><![CDATA[<p>大一期末，由于回家的火车票买得晚，所以需要在学校多留几日。其时，舍友都已回家去了。我在宿舍闲着无聊，开始折腾我的电脑了。那时候，距离Win10正式版的发布还有一个月左右，但网上已经有各种测试版了。于是，我把自己的电脑升级成了Win10。但这并没有满足我，我又开始搜索“除了Windows，电脑还能装什么系统”。霎那间，一些崭新的名词出现在了我的眼前，比如“Linux”、“Ubuntu“、”黑苹果“等等。也就是从那个时候起，我第一次知道了Linux。第一次装Ubuntu并没有费很大的力气，当桌面伴随着那独特的启动音展现在我的面前时，我情不自禁的哇了一声。倒不是说界面有多么华美，只是面对全新的完全不同于Windows的桌面时，我真的很惊奇。然而，开始使用时却是步步维艰，几乎不管做什么都得一边百度一边操作。终于，新奇感过后，我在Windows下毫不犹豫的格式化了Ubuntu的安装盘。要是事情就此戛然而止也就不会有这篇文章出现了，恨就恨在自此以后，我一次又一次的安装Ubuntu，然后又删掉，循环往复，每次都要浪费半天时间。说到底，我终究不能忘了Linux。前几日，我又一次折腾了我的电脑。然而，这一次，我颇满意自己的创作，竟渐渐生发出就此告别Windows的想法。不管结果如何，我觉得有必要把我这一次的折腾记录下来，也方便日后查看。</p>
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Ubuntu折腾札记</title>
+            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/ubuntu%E6%8A%98%E8%85%BE%E6%9C%AD%E8%AE%B0/" />
+            <id>https://yw9.github.io/posts/ubuntu%E6%8A%98%E8%85%BE%E6%9C%AD%E8%AE%B0/</id>
+            <updated>2020-04-26T19:13:28+08:00</updated>
+            <published>2016-11-25T14:50:56+00:00</published>
+            <author>
+                    <name>Owen</name>
+                    <uri>https://yw9.github.io</uri>
+                    <email>ywshi@live.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[大一期末，由于回家的火车票买得晚，所以需要在学校多留几日。其时，舍友都已回家去了。我在宿舍闲着无聊，开始折腾我的电脑了。那时候，距离Win10正式版的发布还有一个月左右，但网上已经有各种测试版了。于是，我把自己的电脑升级成了Win10。但这……]]></summary>
+            
+                <content type="html"><![CDATA[<p>大一期末，由于回家的火车票买得晚，所以需要在学校多留几日。其时，舍友都已回家去了。我在宿舍闲着无聊，开始折腾我的电脑了。那时候，距离Win10正式版的发布还有一个月左右，但网上已经有各种测试版了。于是，我把自己的电脑升级成了Win10。但这并没有满足我，我又开始搜索“除了Windows，电脑还能装什么系统”。霎那间，一些崭新的名词出现在了我的眼前，比如“Linux”、“Ubuntu“、”黑苹果“等等。也就是从那个时候起，我第一次知道了Linux。第一次装Ubuntu并没有费很大的力气，当桌面伴随着那独特的启动音展现在我的面前时，我情不自禁的哇了一声。倒不是说界面有多么华美，只是面对全新的完全不同于Windows的桌面时，我真的很惊奇。然而，开始使用时却是步步维艰，几乎不管做什么都得一边百度一边操作。终于，新奇感过后，我在Windows下毫不犹豫的格式化了Ubuntu的安装盘。要是事情就此戛然而止也就不会有这篇文章出现了，恨就恨在自此以后，我一次又一次的安装Ubuntu，然后又删掉，循环往复，每次都要浪费半天时间。说到底，我终究不能忘了Linux。前几日，我又一次折腾了我的电脑。然而，这一次，我颇满意自己的创作，竟渐渐生发出就此告别Windows的想法。不管结果如何，我觉得有必要把我这一次的折腾记录下来，也方便日后查看。</p>
 <h3 id="安装">安装</h3>
 <p>不具体记述每一步的操作，只记录一下分区情况。由于电脑中装有Windows,所以不能让Ubuntu自动安装。在某一步选择其他选项，然后开始分区。
 1、第一次分区
@@ -979,97 +1032,107 @@ sudo apt-get install indicator-sysmonitor
 <p><img src="http://upload-images.jianshu.io/upload_images/1009573-1a145beac78ab70e?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="Google Keep和滴答清单"></p>
 <p><img src="http://upload-images.jianshu.io/upload_images/1009573-ae83183793e859dd?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="IntelliJ IDEA"></p>
 <p>请忽略右上角那不伦不类的苹果图标。</p>
-]]></description>
-                
-                
-                
-                
+]]></content>
+            
+            
+            
+            
+            
                 
                     
                         
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/">计算机相关</category>
-                                
                             
-                        
-                    
-                        
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/ubuntu/">Ubuntu</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/linux/">Linux</category>
-                                
+                                <category scheme="https://yw9.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/" term="计算机相关" label="计算机相关" />
                             
                         
                     
                 
-            </item>
-        
-            <item>
-                <title>和妈妈通话</title>
-                <link>https://yw9.github.io/posts/%E5%92%8C%E5%A6%88%E5%A6%88%E9%80%9A%E8%AF%9D/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E5%92%8C%E5%A6%88%E5%A6%88%E9%80%9A%E8%AF%9D/</guid>
-                <pubDate>Sat, 19 Nov 2016 15:03:20 +0000</pubDate>
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yw9.github.io/tags/ubuntu/" term="Ubuntu" label="Ubuntu" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://yw9.github.io/tags/linux/" term="Linux" label="Linux" />
+                            
+                        
+                    
                 
-                    <author>ywshi@live.cn (Owen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description><![CDATA[<p>自上大学以来，我养成了这样一个习惯，那就是每周六和妈妈通个电话。然而和爸爸的通话则没有任何规律可言，而且少得可怜。妈妈会把一周遇到的很多事情讲给我听，爸爸则通常只会问我钱可还够花。</p>
+            
+        </entry>
+    
+        <entry>
+            <title type="text">和妈妈通话</title>
+            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/%E5%92%8C%E5%A6%88%E5%A6%88%E9%80%9A%E8%AF%9D/" />
+            <id>https://yw9.github.io/posts/%E5%92%8C%E5%A6%88%E5%A6%88%E9%80%9A%E8%AF%9D/</id>
+            <updated>2020-04-26T19:11:44+08:00</updated>
+            <published>2016-11-19T15:03:20+00:00</published>
+            <author>
+                    <name>Owen</name>
+                    <uri>https://yw9.github.io</uri>
+                    <email>ywshi@live.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[自上大学以来，我养成了这样一个习惯，那就是每周六和妈妈通个电话。然而和爸爸的通话则没有任何规律可言，而且少得可怜。妈妈会把一周遇到的很多事情讲给我听，爸爸则通常只会问我钱可还够花。 昨天，我正在教室看《恋人絮语》，妈妈突然来了微信电话。我跑出……]]></summary>
+            
+                <content type="html"><![CDATA[<p>自上大学以来，我养成了这样一个习惯，那就是每周六和妈妈通个电话。然而和爸爸的通话则没有任何规律可言，而且少得可怜。妈妈会把一周遇到的很多事情讲给我听，爸爸则通常只会问我钱可还够花。</p>
 <p>昨天，我正在教室看《恋人絮语》，妈妈突然来了微信电话。我跑出教室接听。妈妈以为我在宿舍，我说在教室，她就以为我在上课，要挂了电话待会再打。我说我已经在教室外面了，她又担心我用流量太浪费，还说并没有什么事。终于还是挂了。回到教室，我却已经无心看书，磨蹭了一会儿就回了宿舍。在宿舍旁边的阳台上我拨通了妈妈的手机，她给我讲述了一些妹妹的事情。</p>
 <p>上一次考试，妹妹没有达到老师的要求（全校前十），所以被罚扫地，扫了一个多月。这一次期中考试却很幸运，她恰好考了第十名，不用再扫地了，而她们班那个之前考全校第一的女生只考了第五名，所以还得继续扫地。按道理说考得不错又加上不用扫地了，妹妹应该很开心，可是在她去办公室看成绩时却发生一件让她开心不起来的事。原来自己的眼镜放在桌子上被谁碰掉了，眼镜腿也掉了一个。更可气的是，老师在班里问了一圈也没人承认。回家后，妈妈又骂了她一顿。我真替她难过。本来考了个好成绩心情美美哒，结果碰上这么个事情。妈妈问我怎么办，是不是在配一个，我说只有这样了，还叫她不要骂妹妹，毕竟她也不想这样。</p>
 <p>还有一件事情就是妈妈终于给妹妹买了一个行李箱。她早就想要一个行李箱。记得她说过，看到那些初三的拉着行李箱很赞（忘记是怎样的形容词了）。从这里就能看出妹妹和我的不同。我是一个很自卑的人，从来不敢在人群中与众不同，小时候买了款式新颖的新衣服都要犹豫半天才敢穿上，生怕别人说我什么。而她却很自豪，不怕别人，学校里拉行李箱的人少又怎么样？我就是喜欢拉行李箱，我觉得拉行李箱美，所以我就拉着，别人的眼光我不管。但我觉得我也应该给她一些引导，可以自豪，但不能虚荣。关于这个行李箱，还有一件趣事呢。刚买来行李箱后，妹妹在那儿把玩上面的密码锁（3位数字的密码锁），结果把密码给忘记了，打不开了。妈妈带着箱子去找卖家，人家说也没有办法。谁知妹妹突然来了本事，她跑到网上查了查应该怎么开锁，结果知道了共有多少种（10的3次方=1000种）密码。于是她挨个试，排除的全部记在纸上，终于打开了箱子。密码是026，幸亏这密码只有三位，要是再多一位就够她受得了。哈哈。</p>
-]]></description>
-                
-                
-                
-                
+]]></content>
+            
+            
+            
+            
+            
                 
                     
                         
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/categories/%E5%BF%83%E6%83%85%E7%9B%B8%E5%85%B3/">心情相关</category>
-                                
                             
-                        
-                    
-                        
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
-                                
+                                <category scheme="https://yw9.github.io/categories/%E5%BF%83%E6%83%85%E7%9B%B8%E5%85%B3/" term="心情相关" label="心情相关" />
                             
                         
                     
                 
-            </item>
-        
-            <item>
-                <title>性感的下载工具——aria2</title>
-                <link>https://yw9.github.io/posts/%E6%80%A7%E6%84%9F%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7aria2/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E6%80%A7%E6%84%9F%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7aria2/</guid>
-                <pubDate>Sat, 29 Oct 2016 14:58:23 +0000</pubDate>
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yw9.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                            
+                        
+                    
                 
-                    <author>ywshi@live.cn (Owen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description><![CDATA[<p>今天整理Chrome书签，发现了这样一条<a href="http://bbs.kafan.cn/thread-1686205-1-1.html">“用火狐我喜欢用aria2下载，写写windows下教程吧_Firefox_浏览器讨论区 卡饭论坛 - 互助分享 - 大气谦和!”</a>。突然回忆起自己曾经使用过的非常强大的下载工具——aria2。当时我按照这个教程把aria2配置在了电脑上，用得十分畅快。后来换了固态硬盘重装了系统，再按照教程来配置时却怎么也不成功，所以也就放弃了。正好今天周末，天气又冷得很，是个宅在屋里的好日子，索性我就再来配置一次。</p>
+            
+        </entry>
+    
+        <entry>
+            <title type="text">性感的下载工具——aria2</title>
+            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/%E6%80%A7%E6%84%9F%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7aria2/" />
+            <id>https://yw9.github.io/posts/%E6%80%A7%E6%84%9F%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7aria2/</id>
+            <updated>2020-04-26T19:13:17+08:00</updated>
+            <published>2016-10-29T14:58:23+00:00</published>
+            <author>
+                    <name>Owen</name>
+                    <uri>https://yw9.github.io</uri>
+                    <email>ywshi@live.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[今天整理Chrome书签，发现了这样一条“用火狐我喜欢用aria2下载，写写windows下教程吧_Firefox_浏览器讨论区 卡饭论坛 - 互助分享 - 大气谦和!”。突然回忆起自己曾经使用过的非常强大的下载工具——aria2。当时我按照这个教程……]]></summary>
+            
+                <content type="html"><![CDATA[<p>今天整理Chrome书签，发现了这样一条<a href="http://bbs.kafan.cn/thread-1686205-1-1.html">“用火狐我喜欢用aria2下载，写写windows下教程吧_Firefox_浏览器讨论区 卡饭论坛 - 互助分享 - 大气谦和!”</a>。突然回忆起自己曾经使用过的非常强大的下载工具——aria2。当时我按照这个教程把aria2配置在了电脑上，用得十分畅快。后来换了固态硬盘重装了系统，再按照教程来配置时却怎么也不成功，所以也就放弃了。正好今天周末，天气又冷得很，是个宅在屋里的好日子，索性我就再来配置一次。</p>
 <h3 id="一aria2介绍">一、aria2介绍</h3>
 <p>我们先来看看<a href="https://aria2.github.io/">官网</a>对aria2的介绍：“aria2 is a lightweight multi-protocol &amp; multi-source command-line download utility. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. aria2 can be manipulated via built-in JSON-RPC and XML-RPC interfaces.” 可以看出，aria2是一款支持各种协议的下载工具，它开源、小巧，运行起来几乎不占用内存，就这几点，就比某雷好很多。更重要的是，通过它，我们可以下载百度云里的大文件而不需要使用百度云管家。当然，这个软件也有很多开源软件的通病——易用性不够。软件本身不提供图形用户界面，需要在命令行里操作，估计光这一点就能吓跑很多用户。不过不要紧，我们还有其他解决办法。</p>
 <h3 id="二配置过程">二、配置过程</h3>
@@ -1088,92 +1151,102 @@ sudo apt-get install indicator-sysmonitor
 <img src="http://upload-images.jianshu.io/upload_images/1009573-301322dea38de95f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="">
 很有可能是你的配置过程出了问题，aria2没有成功启动，所以请检查配置过程。
 2、百度网盘官方经常会封杀网盘助手，所以当网盘助手不能用时，请到作者的Github主页查找更新，如果作者没有更新，请静静等待。</p>
-]]></description>
-                
-                
-                
-                
+]]></content>
+            
+            
+            
+            
+            
                 
                     
                         
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/">计算机相关</category>
-                                
                             
-                        
-                    
-                        
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/aria2/">aria2</category>
-                                
+                                <category scheme="https://yw9.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/" term="计算机相关" label="计算机相关" />
                             
                         
                     
                 
-            </item>
-        
-            <item>
-                <title>国足啊国足</title>
-                <link>https://yw9.github.io/posts/%E5%9B%BD%E8%B6%B3%E5%95%8A%E5%9B%BD%E8%B6%B3/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E5%9B%BD%E8%B6%B3%E5%95%8A%E5%9B%BD%E8%B6%B3/</guid>
-                <pubDate>Fri, 07 Oct 2016 14:56:14 +0000</pubDate>
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yw9.github.io/tags/aria2/" term="aria2" label="aria2" />
+                            
+                        
+                    
                 
-                    <author>ywshi@live.cn (Owen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description><![CDATA[<p>昨晚，世界杯预选赛12强赛在西安打响，赛前，国内各路媒体都报道说国足必须赢，一定赢。然而，结局是0比1负于战火纷飞的叙利亚。我算不上一个真正的球迷，但对于中国足球，我总是抱着很大的希望，他们的每一场比赛我都会看，看的过程中也屏气凝神，怕得要死。最终，我在失望中接受了这个最坏的结果。凭什么要求更多呢？要知道，我们本可能连12强赛都进不了。所以，把国足剩下的每一场比赛都当成生活的馈赠吧，去感受生活的不容易，现实的残酷。</p>
+            
+        </entry>
+    
+        <entry>
+            <title type="text">国足啊国足</title>
+            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/%E5%9B%BD%E8%B6%B3%E5%95%8A%E5%9B%BD%E8%B6%B3/" />
+            <id>https://yw9.github.io/posts/%E5%9B%BD%E8%B6%B3%E5%95%8A%E5%9B%BD%E8%B6%B3/</id>
+            <updated>2020-04-26T19:11:14+08:00</updated>
+            <published>2016-10-07T14:56:14+00:00</published>
+            <author>
+                    <name>Owen</name>
+                    <uri>https://yw9.github.io</uri>
+                    <email>ywshi@live.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[昨晚，世界杯预选赛12强赛在西安打响，赛前，国内各路媒体都报道说国足必须赢，一定赢。然而，结局是0比1负于战火纷飞的叙利亚。我算不上一个真正的球迷，但对于中国足球，我总是抱着很大的希望，他们的每一场比赛我都会看，看的过程中也屏气凝神，怕得要……]]></summary>
+            
+                <content type="html"><![CDATA[<p>昨晚，世界杯预选赛12强赛在西安打响，赛前，国内各路媒体都报道说国足必须赢，一定赢。然而，结局是0比1负于战火纷飞的叙利亚。我算不上一个真正的球迷，但对于中国足球，我总是抱着很大的希望，他们的每一场比赛我都会看，看的过程中也屏气凝神，怕得要死。最终，我在失望中接受了这个最坏的结果。凭什么要求更多呢？要知道，我们本可能连12强赛都进不了。所以，把国足剩下的每一场比赛都当成生活的馈赠吧，去感受生活的不容易，现实的残酷。</p>
 <p>我不是一个资深球迷，对于各种战术也是一无所知，甚至球员在场上的位置应该叫什么都不太清楚。所以我不打算解读比赛的过程，我想说说自己在从高洪波上任后的一些所见所闻的看法。</p>
 <p>当佩兰带领国足一负再负，几乎丧失参加12强赛资格的时候，我去看有关国足的新闻，下面的评论几乎全是要求佩兰下课。后来佩兰下课，高洪波毛遂自荐再次成为国家队主教练。这时，评论几乎全部是在夸奖高洪波，说他什么“苟利国家生死以，岂因祸福避趋之”。而对高的赞扬在他带领国足绝处逢生闯入12强赛时达到顶峰，很多评论变成了什么“一生不黑高指导”。可是，就在昨晚，在12强赛仅进行3场还有7场没打的时候，不和谐的声音已经出现，什么“高指导用人唯亲”、“高洪波下课”的评论已偶有可见。甚至可以预见，在接下来的比赛中，如果国足的成个绩再不能有所提高，高洪波的又会成为新闻评论里甚至新闻 里指责的对象。</p>
 <p>我不禁怀疑，这一波一波恶意的评论究竟是不是来自同一帮人。如果是，那么中国人究竟是怎样一种纠结的存在啊。如果不是，那为何每一次总有“众望所归”的评论占据各大门户网站？这其中，媒体也要负责任。对于国内的媒体，我早已见识过他们的厉害。9月18号那天，乒乓国手王楠老公的一条微博就被各大媒体断章取义地发在自己的网上，引得众网友批评责骂不断。由此可见，国内的网络生态是如此不堪，而我们每天却都要自己主动去获取这些毫无见解，毫无意义的文字。想起了公选课上老师说的告诫，中国的互联网上有太多别有用心的文字，我们自己必须学会甄别，而甄别的依据就是寻找这篇文章的引用。去 看它的引用是否客观，是否可信。我深以为然。</p>
 <p>前几日，W忽然说到这样一件事。他说瑞士银行将要公布所有官员的财产，此举遭到中国强烈反对。猛一听，会心生愤恨，继而增加对中国现状的不满。可是这一次，我并没有如此。我掏出手机查询了一下此条消息。腾讯网4月份报道了此事，并说外交部已经澄清并无此事。且不论事实的真相究竟是什么，把这样一条早已“过时”的新闻又拿出来回味的行为是不是更让人深思呢。基于此，我决定，尽量远离中国的网络媒体，最重要的是远离那些匿名的评论。虽说兼听则明，偏信则暗，但我更愿意相信经历史检验过的书籍。那所谓的中国的脉搏，我就不去把了。</p>
-]]></description>
-                
-                
-                
-                
+]]></content>
+            
+            
+            
+            
+            
                 
                     
                         
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/categories/%E5%BF%83%E6%83%85%E7%9B%B8%E5%85%B3/">心情相关</category>
-                                
                             
-                        
-                    
-                        
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/%E5%9B%BD%E8%B6%B3/">国足</category>
-                                
+                                <category scheme="https://yw9.github.io/categories/%E5%BF%83%E6%83%85%E7%9B%B8%E5%85%B3/" term="心情相关" label="心情相关" />
                             
                         
                     
                 
-            </item>
-        
-            <item>
-                <title>骗局</title>
-                <link>https://yw9.github.io/posts/%E9%AA%97%E5%B1%80/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E9%AA%97%E5%B1%80/</guid>
-                <pubDate>Sun, 02 Oct 2016 22:43:00 +0000</pubDate>
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yw9.github.io/tags/%E5%9B%BD%E8%B6%B3/" term="国足" label="国足" />
+                            
+                        
+                    
                 
-                    <author>ywshi@live.cn (Owen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description><![CDATA[<h3 id="所谓的玖诺学联">所谓的“玖诺学联”</h3>
+            
+        </entry>
+    
+        <entry>
+            <title type="text">骗局</title>
+            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/%E9%AA%97%E5%B1%80/" />
+            <id>https://yw9.github.io/posts/%E9%AA%97%E5%B1%80/</id>
+            <updated>2020-04-26T19:12:51+08:00</updated>
+            <published>2016-10-02T22:43:00+00:00</published>
+            <author>
+                    <name>Owen</name>
+                    <uri>https://yw9.github.io</uri>
+                    <email>ywshi@live.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[所谓的“玖诺学联” 刚刚在网络上看到了辅导员转发地一条动态，说的是自己被一个叫“玖诺学联”的给骗了。我不禁想起自己大二时的一段经历。 大二下学期的一天下午，没有课，我去了一个教室看书。忽然来了一个电话，我一看区号是0512。我有些疑惑了，在那段……]]></summary>
+            
+                <content type="html"><![CDATA[<h3 id="所谓的玖诺学联">所谓的“玖诺学联”</h3>
 <p>刚刚在网络上看到了辅导员转发地一条动态，说的是自己被一个叫“玖诺学联”的给骗了。我不禁想起自己大二时的一段经历。
 大二下学期的一天下午，没有课，我去了一个教室看书。忽然来了一个电话，我一看区号是0512。我有些疑惑了，在那段时间，不知道为什么，我的号码像是被世界上所有骗子盯上了一样，每天都会接到几个骚扰电话，什么股票啊、原油啊，但号码一般是外地，所以这个苏州本地的号码很让我疑惑。我接了电话，对方自称江苏广播电视台的，并准确报出了我的信息。我放松了警惕，和他聊了起来，他问我专业、问我大学生活等等，最后他说他们公司会在学校招一批人为他们工作。我那段时间很闲，也一直想找点事情做，于是就说愿意去面试。他帮我预约了第二天下午去面试。第二天下午，我特意洗了澡，按照地址找了过去。所谓的公司座落在一个破败的大厦里。一进公司，我就像前台表明来意，她让我填了一份单子后并说稍等。我坐在门口的椅子上，忽然看到了公司的名字——“玖诺”，昨天在电话里我并没有听的很清楚。我赶忙拿出手机，百度了一下这个名字。第一页的内容语焉不详，我没有看出什么端倪。但在最下方的联想搜索里，有这样一个联想——“玖诺是传销吗”。我顿时警觉起来，于是观察四周，发现前台进去后就是一张张桌子和椅子，整个环境里在播放着音乐。其时，我并不能肯定这里究竟是作什么的，但我已经萌生退意。
 这时，一个年轻女性把我叫了过去，又让我填一张单子。上面有些问题，比如大学里做过什么工作啊。那个女的跟我聊了几句，具体内容记不得了。她说过一会儿会有导师过来面试，要好好表现。她走了，很快带来一个着西装的男人。看我翘着二郎腿，她很生气，让我放下。我和导师面对面坐定，那导师虽然穿的正式，但我却感觉不到那种气质。他一开口，不标准的普通话更暴露了他的面目。于是，整个面试过程，我几乎都在瞎扯。终于，他说我不适合就让我走了。
@@ -1187,47 +1260,52 @@ sudo apt-get install indicator-sysmonitor
 <p>上了大一，像是疯了一样得想赚钱，但是苦于没有门路。后来遇到朋友S，S说他靠刷单已经赚了几千了，不禁心动。开学后，空余时间很多，那时也不懂得要用空余时间提升自己，所以就找了S想让他带我刷单。终于靠他引荐进了报上了名，还交了一百块钱。像模像样地用YY语音培训了几天。终于可以开始刷了，却发现过程实在太过繁琐，而且自己的淘宝账号等级还不够。一开始，我还问S该怎么办，后来也就释然了，心想着不就100块钱吗，不要了。然后就没有然后了。现在，我和S依旧见面，但估计他永远不会提及这件事情了吧，反正我永远不会向他提起。</p>
 <h3 id="总结">总结</h3>
 <p>这些就是我全部被骗的经历了，虽然并不多，损失也根本不惨重，但却让我懂了很多。首先，就是那句俗套但永远时真理的话“天上不会掉馅饼”。其次，就是要增长自己的见识，很多骗子往往会利用信息的不对称来骗你，而如果你懂得多，直到事情该是怎样不该怎样，面对骗子时就会从容很多。最后，善用搜索引擎，很多骗局都已经被别人扒到了网上，你键入几个关键词就能洞察一切。</p>
-]]></description>
-                
-                
-                
-                
+]]></content>
+            
+            
+            
+            
+            
                 
                     
                         
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/categories/%E5%BF%83%E6%83%85%E7%9B%B8%E5%85%B3/">心情相关</category>
-                                
                             
-                        
-                    
-                        
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/%E9%98%B2%E9%AA%97%E6%84%8F%E8%AF%86/">防骗意识</category>
-                                
+                                <category scheme="https://yw9.github.io/categories/%E5%BF%83%E6%83%85%E7%9B%B8%E5%85%B3/" term="心情相关" label="心情相关" />
                             
                         
                     
                 
-            </item>
-        
-            <item>
-                <title>毛概课上的演讲</title>
-                <link>https://yw9.github.io/posts/%E6%AF%9B%E6%A6%82%E8%AF%BE%E4%B8%8A%E7%9A%84%E6%BC%94%E8%AE%B2/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E6%AF%9B%E6%A6%82%E8%AF%BE%E4%B8%8A%E7%9A%84%E6%BC%94%E8%AE%B2/</guid>
-                <pubDate>Sun, 02 Oct 2016 18:53:43 +0000</pubDate>
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yw9.github.io/tags/%E9%98%B2%E9%AA%97%E6%84%8F%E8%AF%86/" term="防骗意识" label="防骗意识" />
+                            
+                        
+                    
                 
-                    <author>ywshi@live.cn (Owen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description><![CDATA[<p>毛概第一次课，老师就说这学期每人都有一次演讲的机会。没想到第二个星期就轮到了我。整个中秋节，我都没有去准备，直到最后一天晚上，一直拖到12点钟才终于定稿，主题叫“明辨是非与理性爱国”。可是，由于老师错误估计了人数，我并没有获得上场的机会。没法，只有等下次。由于“九一八事件”过去了很多时日，再去讲我那“理性爱国”云云已显得不合时宜，干脆推倒重来。这一次，我提早准备，早早确定了主题——关于中国的电影审查。稿子如下：</p>
+            
+        </entry>
+    
+        <entry>
+            <title type="text">毛概课上的演讲</title>
+            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/%E6%AF%9B%E6%A6%82%E8%AF%BE%E4%B8%8A%E7%9A%84%E6%BC%94%E8%AE%B2/" />
+            <id>https://yw9.github.io/posts/%E6%AF%9B%E6%A6%82%E8%AF%BE%E4%B8%8A%E7%9A%84%E6%BC%94%E8%AE%B2/</id>
+            <updated>2020-04-26T19:12:09+08:00</updated>
+            <published>2016-10-02T18:53:43+00:00</published>
+            <author>
+                    <name>Owen</name>
+                    <uri>https://yw9.github.io</uri>
+                    <email>ywshi@live.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[毛概第一次课，老师就说这学期每人都有一次演讲的机会。没想到第二个星期就轮到了我。整个中秋节，我都没有去准备，直到最后一天晚上，一直拖到12点钟才终于定稿，主题叫“明辨是非与理性爱国”。可是，由于老师错误估计了人数，我并没有获得上场的机会。没……]]></summary>
+            
+                <content type="html"><![CDATA[<p>毛概第一次课，老师就说这学期每人都有一次演讲的机会。没想到第二个星期就轮到了我。整个中秋节，我都没有去准备，直到最后一天晚上，一直拖到12点钟才终于定稿，主题叫“明辨是非与理性爱国”。可是，由于老师错误估计了人数，我并没有获得上场的机会。没法，只有等下次。由于“九一八事件”过去了很多时日，再去讲我那“理性爱国”云云已显得不合时宜，干脆推倒重来。这一次，我提早准备，早早确定了主题——关于中国的电影审查。稿子如下：</p>
 <h3 id="谈谈中国电影">谈谈中国电影</h3>
 <p>我也准备了ppt，但我不打算照着它去读，因为我觉得自己不是大学老师。我打算照着word来读。这让我想起了我高中时期的一个老师，他上课的时候从来不用ppt，只用word。于是我们就给他取了一个外号叫word哥。最近这几天，他变得特别火，因为网上到处充斥着什么厉害了，word哥。当然，把这篇word投在屏幕上更主要是为了告诉大家一件事，那就是我不是上来瞎扯淡的，我是在下面扯好淡以后才上来的。这些都是是闲话，我们现在开始。</p>
 <p>我有一个室友是混文艺圈的，每天看书看电影看展览看纪录片。一年下来，光豆瓣上标记的电影就有几百部，远远超过了他撩妹的次数，当然，他不会撩妹。电影看得多了见解也深，所以我每次看电影都找他做参谋，他推荐给我的总归不会太烂。前几天他给我推荐了电影《两杆大烟枪》。据他说，这种风格的电影是叫做黑色幽默的类型片，是一个比较重要的电影就流派。著名的导演有英国的盖里奇，美国的昆汀塔伦蒂诺等。另外中国的宁浩也拍过几部。我自觉外国的月亮不一定更圆，于是就找了宁浩的《疯狂》系列，以及《无人区》等电影看了，果然也还不错。</p>
@@ -1236,76 +1314,78 @@ sudo apt-get install indicator-sysmonitor
 <p>当然不是说不能审查，每个国家的电影都要审核。如果影片宣传颠覆国家政权，那么禁你没商量，如果电影以淫秽色情为噱头吸引观众，那么也禁你没商量。但是我们现在的国情却是大量质量上乘获得国际认可的电影被禁了又禁，改了又改。而那些没有剧情，完全依靠粉丝效应的烂片却大行其道。为什么我们的审核制度会出现这样的问题？我们先来了解一下广电总局下属的电影审查委员会。据百度百科介绍，中国电影审查委员会一共有37个人，负责电影的审查工作。每一部电影拍完后，需经过电影审查委员会决定是否能够上演。电审会委员掌握电影生杀大权，但审片时却毋须全部到齐，只要大多数到场即可。原来区区37人就要决定全国人民的电影，难怪中国电影饱受诟病。但更重要的一点是因为电影审核委员会很难把握审核电影的尺度。裸露镜头，暴力镜头总是不宜太多，因为会有很多未成年人走进影院。</p>
 <p>所以说，要想从根本上解决问题，需要建立电影分级制度。很多西方发达国家都有电影分级制度。比如韩国，前不久很火的《釜山行》在韩国就是一部限制级的片子，据说呢只有15岁以上的人才能观看。多年以来，很多电影从业者呼吁国家尽快建立电影分级制度，给电影创作者更宽松的创作环境。然而，很显然，相关部门还没准备好。</p>
 <p>还有一个建议，就是建立一个烂片审查委员会，让委员会把各种烂片扼杀在摇篮里，不去影院祸害观众，也算是造福人民。这些烂片包括但不限于“何以笙箫默”、“栀子花开”，我觉得这些片子完全是瞎扯呀，大学里哪有那么多恋爱可谈？我就没有恋爱可谈！</p>
-]]></description>
-                
-                
-                
-                
-                
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/categories/%E5%BF%83%E6%83%85%E7%9B%B8%E5%85%B3/">心情相关</category>
-                                
-                            
-                        
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/%E7%94%B5%E5%BD%B1%E5%AE%A1%E6%9F%A5/">电影审查</category>
-                                
-                            
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>我的第一篇博客</title>
-                <link>https://yw9.github.io/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
-                <pubDate>Sun, 02 Oct 2016 14:41:51 +0000</pubDate>
-                
-                    <author>ywshi@live.cn (Owen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description><![CDATA[<p>折腾了一天，终于有了模样。一些细节，慢慢改进吧。</p>
-]]></description>
-                
-                
-                
-                
+]]></content>
+            
+            
+            
+            
+            
                 
                     
                         
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/categories/%E5%BF%83%E6%83%85%E7%9B%B8%E5%85%B3/">心情相关</category>
-                                
                             
-                        
-                    
-                        
                             
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
-                                
+                                <category scheme="https://yw9.github.io/categories/%E5%BF%83%E6%83%85%E7%9B%B8%E5%85%B3/" term="心情相关" label="心情相关" />
                             
                         
                     
                 
-            </item>
-        
-    </channel>
-</rss>
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yw9.github.io/tags/%E7%94%B5%E5%BD%B1%E5%AE%A1%E6%9F%A5/" term="电影审查" label="电影审查" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">我的第一篇博客</title>
+            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/" />
+            <id>https://yw9.github.io/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+            <updated>2020-04-26T19:13:40+08:00</updated>
+            <published>2016-10-02T14:41:51+00:00</published>
+            <author>
+                    <name>Owen</name>
+                    <uri>https://yw9.github.io</uri>
+                    <email>ywshi@live.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"><![CDATA[折腾了一天，终于有了模样。一些细节，慢慢改进吧。]]></summary>
+            
+                <content type="html"><![CDATA[<p>折腾了一天，终于有了模样。一些细节，慢慢改进吧。</p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yw9.github.io/categories/%E5%BF%83%E6%83%85%E7%9B%B8%E5%85%B3/" term="心情相关" label="心情相关" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://yw9.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+</feed>
