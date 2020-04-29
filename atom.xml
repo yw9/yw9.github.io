@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">YW9的博客</title>
     <subtitle type="html">记录自己的所思所想。</subtitle>
-    <updated>2020-04-29T17:48:09+08:00</updated>
+    <updated>2020-04-29T17:56:39+08:00</updated>
     <id>https://yw9.github.io/</id>
     <link rel="alternate" type="text/html" href="https://yw9.github.io/" />
     <link rel="self" type="application/atom+xml" href="https://yw9.github.io/atom.xml" />
@@ -130,9 +130,9 @@
     
         <entry>
             <title type="text">macOS开机自动连接蓝牙音箱解决方案</title>
-            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/macos%E8%87%AA%E5%8A%A8%E8%BF%9E%E6%8E%A5%E8%93%9D%E7%89%99%E9%9F%B3%E7%AE%B1%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/" />
-            <id>https://yw9.github.io/posts/macos%E8%87%AA%E5%8A%A8%E8%BF%9E%E6%8E%A5%E8%93%9D%E7%89%99%E9%9F%B3%E7%AE%B1%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</id>
-            <updated>2020-04-26T19:13:23+08:00</updated>
+            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/macos-bluetooth/" />
+            <id>https://yw9.github.io/posts/macos-bluetooth/</id>
+            <updated>2020-04-29T17:56:30+08:00</updated>
             <published>2020-04-04T22:52:17+00:00</published>
             <author>
                     <name>Owen</name>
@@ -590,9 +590,9 @@ deploy:
     
         <entry>
             <title type="text">Windows系统备份</title>
-            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/windows%E7%B3%BB%E7%BB%9F%E5%A4%87%E4%BB%BD/" />
-            <id>https://yw9.github.io/posts/windows%E7%B3%BB%E7%BB%9F%E5%A4%87%E4%BB%BD/</id>
-            <updated>2020-04-26T19:13:33+08:00</updated>
+            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/21250/" />
+            <id>https://yw9.github.io/posts/21250/</id>
+            <updated>2020-04-29T17:55:32+08:00</updated>
             <published>2017-09-18T21:10:17+00:00</published>
             <author>
                     <name>Owen</name>
@@ -967,9 +967,9 @@ deploy:
     
         <entry>
             <title type="text">Ubuntu折腾札记</title>
-            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/ubuntu%E6%8A%98%E8%85%BE%E6%9C%AD%E8%AE%B0/" />
-            <id>https://yw9.github.io/posts/ubuntu%E6%8A%98%E8%85%BE%E6%9C%AD%E8%AE%B0/</id>
-            <updated>2020-04-26T19:13:28+08:00</updated>
+            <link rel="alternate" type="text/html" href="https://yw9.github.io/posts/1505/" />
+            <id>https://yw9.github.io/posts/1505/</id>
+            <updated>2020-04-29T17:55:42+08:00</updated>
             <published>2016-11-25T14:50:56+00:00</published>
             <author>
                     <name>Owen</name>
