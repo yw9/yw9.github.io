@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Wed, 29 Apr 2020 17:56:39 +0800</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2020 18:37:22 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://yw9.github.io/rss.xml" />
         
         
             <item>
                 <title>堵得慌</title>
-                <link>https://yw9.github.io/posts/2e5ecf2c/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/2e5ecf2c/</guid>
+                <link>https://yw9.github.io/posts/get-stuck/</link>
+                <guid isPermaLink="true">https://yw9.github.io/posts/get-stuck/</guid>
                 <pubDate>Sat, 25 Apr 2020 18:07:45 +0800</pubDate>
                 
                     <author>ywshi@live.cn (Owen)</author>
@@ -77,8 +77,8 @@
         
             <item>
                 <title>错过</title>
-                <link>https://yw9.github.io/posts/%E9%94%99%E8%BF%87/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E9%94%99%E8%BF%87/</guid>
+                <link>https://yw9.github.io/posts/let-slip/</link>
+                <guid isPermaLink="true">https://yw9.github.io/posts/let-slip/</guid>
                 <pubDate>Fri, 10 Apr 2020 22:06:01 +0000</pubDate>
                 
                     <author>ywshi@live.cn (Owen)</author>
@@ -132,8 +132,8 @@
         
             <item>
                 <title>macOS开机自动连接蓝牙音箱解决方案</title>
-                <link>https://yw9.github.io/posts/macos-bluetooth/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/macos-bluetooth/</guid>
+                <link>https://yw9.github.io/posts/the-solution-of-connecting-to-bluetooth-speaker-automatically/</link>
+                <guid isPermaLink="true">https://yw9.github.io/posts/the-solution-of-connecting-to-bluetooth-speaker-automatically/</guid>
                 <pubDate>Sat, 04 Apr 2020 22:52:17 +0000</pubDate>
                 
                     <author>ywshi@live.cn (Owen)</author>
@@ -246,8 +246,8 @@
         
             <item>
                 <title>米boy的自我修养</title>
-                <link>https://yw9.github.io/posts/%E7%B1%B3boy%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E7%B1%B3boy%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/</guid>
+                <link>https://yw9.github.io/posts/to-be-a-miboy/</link>
+                <guid isPermaLink="true">https://yw9.github.io/posts/to-be-a-miboy/</guid>
                 <pubDate>Mon, 23 Mar 2020 08:22:41 +0000</pubDate>
                 
                     <author>ywshi@live.cn (Owen)</author>
@@ -300,8 +300,8 @@
         
             <item>
                 <title>给你的小纸条也可能是他印象最深的</title>
-                <link>https://yw9.github.io/posts/%E7%BB%99%E4%BD%A0%E7%9A%84%E5%B0%8F%E7%BA%B8%E6%9D%A1%E4%B9%9F%E5%8F%AF%E8%83%BD%E6%98%AF%E4%BB%96%E5%8D%B0%E8%B1%A1%E6%9C%80%E6%B7%B1%E7%9A%84/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E7%BB%99%E4%BD%A0%E7%9A%84%E5%B0%8F%E7%BA%B8%E6%9D%A1%E4%B9%9F%E5%8F%AF%E8%83%BD%E6%98%AF%E4%BB%96%E5%8D%B0%E8%B1%A1%E6%9C%80%E6%B7%B1%E7%9A%84/</guid>
+                <link>https://yw9.github.io/posts/the-little-note-for-you-may-be-his-most-impressive/</link>
+                <guid isPermaLink="true">https://yw9.github.io/posts/the-little-note-for-you-may-be-his-most-impressive/</guid>
                 <pubDate>Tue, 19 Feb 2019 19:50:44 +0000</pubDate>
                 
                     <author>ywshi@live.cn (Owen)</author>
@@ -333,14 +333,22 @@
                         
                     
                         
+                            
+                                
+                                
+                                
+                                    <category domain="https://yw9.github.io/tags/%E5%9B%9E%E5%BF%86/">回忆</category>
+                                
+                            
+                        
                     
                 
             </item>
         
             <item>
                 <title>年龄问题</title>
-                <link>https://yw9.github.io/posts/%E5%B9%B4%E9%BE%84%E9%97%AE%E9%A2%98/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E5%B9%B4%E9%BE%84%E9%97%AE%E9%A2%98/</guid>
+                <link>https://yw9.github.io/posts/age-issue/</link>
+                <guid isPermaLink="true">https://yw9.github.io/posts/age-issue/</guid>
                 <pubDate>Thu, 24 Jan 2019 19:20:55 +0000</pubDate>
                 
                     <author>ywshi@live.cn (Owen)</author>
@@ -380,8 +388,8 @@
         
             <item>
                 <title>利用Windows内置Linux子系统搭建Hexo静态博客</title>
-                <link>https://yw9.github.io/posts/%E5%88%A9%E7%94%A8windows%E5%86%85%E7%BD%AElinux%E5%AD%90%E7%B3%BB%E7%BB%9F%E6%90%AD%E5%BB%BAhexo%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E5%88%A9%E7%94%A8windows%E5%86%85%E7%BD%AElinux%E5%AD%90%E7%B3%BB%E7%BB%9F%E6%90%AD%E5%BB%BAhexo%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</guid>
+                <link>https://yw9.github.io/posts/make-a-static-blog-with-wsl/</link>
+                <guid isPermaLink="true">https://yw9.github.io/posts/make-a-static-blog-with-wsl/</guid>
                 <pubDate>Tue, 19 Sep 2017 14:09:27 +0000</pubDate>
                 
                     <author>ywshi@live.cn (Owen)</author>
@@ -656,8 +664,8 @@ deploy:
         
             <item>
                 <title>我的人格缺陷</title>
-                <link>https://yw9.github.io/posts/%E6%88%91%E7%9A%84%E4%BA%BA%E6%A0%BC%E7%BC%BA%E9%99%B7/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E6%88%91%E7%9A%84%E4%BA%BA%E6%A0%BC%E7%BC%BA%E9%99%B7/</guid>
+                <link>https://yw9.github.io/posts/my-personality-defect/</link>
+                <guid isPermaLink="true">https://yw9.github.io/posts/my-personality-defect/</guid>
                 <pubDate>Wed, 03 May 2017 12:20:04 +0000</pubDate>
                 
                     <author>ywshi@live.cn (Owen)</author>
@@ -763,8 +771,8 @@ deploy:
         
             <item>
                 <title>就医记</title>
-                <link>https://yw9.github.io/posts/%E5%B0%B1%E5%8C%BB%E8%AE%B0/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E5%B0%B1%E5%8C%BB%E8%AE%B0/</guid>
+                <link>https://yw9.github.io/posts/go-to-the-hospital/</link>
+                <guid isPermaLink="true">https://yw9.github.io/posts/go-to-the-hospital/</guid>
                 <pubDate>Wed, 08 Mar 2017 17:00:14 +0000</pubDate>
                 
                     <author>ywshi@live.cn (Owen)</author>
@@ -805,8 +813,8 @@ deploy:
         
             <item>
                 <title>如何管理你的密码——KeePass使用详解</title>
-                <link>https://yw9.github.io/posts/%E5%A6%82%E4%BD%95%E7%AE%A1%E7%90%86%E4%BD%A0%E7%9A%84%E5%AF%86%E7%A0%81keepass%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E5%A6%82%E4%BD%95%E7%AE%A1%E7%90%86%E4%BD%A0%E7%9A%84%E5%AF%86%E7%A0%81keepass%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/</guid>
+                <link>https://yw9.github.io/posts/how-to-use-keepess/</link>
+                <guid isPermaLink="true">https://yw9.github.io/posts/how-to-use-keepess/</guid>
                 <pubDate>Tue, 13 Dec 2016 14:42:41 +0000</pubDate>
                 
                     <author>ywshi@live.cn (Owen)</author>
@@ -871,8 +879,8 @@ deploy:
         
             <item>
                 <title>偶记</title>
-                <link>https://yw9.github.io/posts/%E5%81%B6%E8%AE%B0/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E5%81%B6%E8%AE%B0/</guid>
+                <link>https://yw9.github.io/posts/essay/</link>
+                <guid isPermaLink="true">https://yw9.github.io/posts/essay/</guid>
                 <pubDate>Fri, 09 Dec 2016 15:06:31 +0000</pubDate>
                 
                     <author>ywshi@live.cn (Owen)</author>
@@ -1017,8 +1025,8 @@ sudo apt-get install indicator-sysmonitor
         
             <item>
                 <title>和妈妈通话</title>
-                <link>https://yw9.github.io/posts/%E5%92%8C%E5%A6%88%E5%A6%88%E9%80%9A%E8%AF%9D/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E5%92%8C%E5%A6%88%E5%A6%88%E9%80%9A%E8%AF%9D/</guid>
+                <link>https://yw9.github.io/posts/call-mom/</link>
+                <guid isPermaLink="true">https://yw9.github.io/posts/call-mom/</guid>
                 <pubDate>Sat, 19 Nov 2016 15:03:20 +0000</pubDate>
                 
                     <author>ywshi@live.cn (Owen)</author>
@@ -1060,68 +1068,9 @@ sudo apt-get install indicator-sysmonitor
             </item>
         
             <item>
-                <title>性感的下载工具——aria2</title>
-                <link>https://yw9.github.io/posts/%E6%80%A7%E6%84%9F%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7aria2/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E6%80%A7%E6%84%9F%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7aria2/</guid>
-                <pubDate>Sat, 29 Oct 2016 14:58:23 +0000</pubDate>
-                
-                    <author>ywshi@live.cn (Owen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description><![CDATA[<p>今天整理Chrome书签，发现了这样一条<a href="http://bbs.kafan.cn/thread-1686205-1-1.html">“用火狐我喜欢用aria2下载，写写windows下教程吧_Firefox_浏览器讨论区 卡饭论坛 - 互助分享 - 大气谦和!”</a>。突然回忆起自己曾经使用过的非常强大的下载工具——aria2。当时我按照这个教程把aria2配置在了电脑上，用得十分畅快。后来换了固态硬盘重装了系统，再按照教程来配置时却怎么也不成功，所以也就放弃了。正好今天周末，天气又冷得很，是个宅在屋里的好日子，索性我就再来配置一次。</p>
-<h3 id="一aria2介绍">一、aria2介绍</h3>
-<p>我们先来看看<a href="https://aria2.github.io/">官网</a>对aria2的介绍：“aria2 is a lightweight multi-protocol &amp; multi-source command-line download utility. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. aria2 can be manipulated via built-in JSON-RPC and XML-RPC interfaces.” 可以看出，aria2是一款支持各种协议的下载工具，它开源、小巧，运行起来几乎不占用内存，就这几点，就比某雷好很多。更重要的是，通过它，我们可以下载百度云里的大文件而不需要使用百度云管家。当然，这个软件也有很多开源软件的通病——易用性不够。软件本身不提供图形用户界面，需要在命令行里操作，估计光这一点就能吓跑很多用户。不过不要紧，我们还有其他解决办法。</p>
-<h3 id="二配置过程">二、配置过程</h3>
-<p>我在开头提到的教程里十分详尽的介绍了配置过程，在这里我不再赘述。只是，在执行“实现开机无cmd窗口启动”这一步时，可能会遇到一些麻烦。这一步里，作者提供的代码如下：</p>
-<pre><code>CreateObject(&quot;WScript.Shell&quot;).Run &quot;D:\Progra~1\aria2\aria2c.exe --conf-path=aria2.conf&quot;,0
-</code></pre><p>其中，需要把路径改为你自己的安装路径。我按照这段代码执行，可是一直弹出这样的错误提示</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1009573-796bd4d92eccc9f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p>我仔细检查了自己的路径，终于肯定是这段代码出了问题。于是我在网上找到了这段代码</p>
-<pre><code>CreateObject(&quot;WScript.Shell&quot;).Run &quot;aria2c.exe --conf-path=aria2.conf&quot;,0
-</code></pre><p>使用这段代码不会报错。当初我正是在这一步遇到了问题所以没有继续下去。然而吊诡的是，我第一次配置时正是使用的这段代码却并没有什么问题。我的解释是软件更新的缘故。</p>
-<h3 id="三使用方法">三、使用方法</h3>
-<p>下面说说没有图形用户界面的解决办法，就是使用web界面。教程的作者提到的是这个网址http://ziahamza.github.io/webui-aria2/ 。不过我推荐大家使用这个chrome扩展程序<a href="https://chrome.google.com/webstore/detail/yaaw-for-chrome/dennnbdlpgjgbcjfgaohdahloollfgoc">YAAW for Chrome</a>，使用这个扩展程序，一点击就能进入web管理界面而不需要记住什么网址。在web界面里，就可以添加链接或者种子文件进行下载了。
-然而，这还不是全部，aria2最强大的功能在于它可以代替百度云管家。当然，要实现这个功能，需要使用<a href="https://github.com/acgotaku">acgotaku@Github</a>大神开发的Chrome扩展程序BaiduExporter,不久前，这个扩展程序被谷歌下架了，所以要去作者的Github主页下载。作者在README里详细介绍了使用方法，可以自己前去了解。不想每次打开chrome都弹出禁止的提示就参照这个帖子改进<a href="https://hencolle.com/2016/10/16/baidu_exporter/">Guide on Packaging and Import Baidu Exporter to ChromeLicense</a>。</p>
-<h3 id="四问题">四、问题</h3>
-<p>1、如果打开web时，出现了这种情况：
-<img src="http://upload-images.jianshu.io/upload_images/1009573-301322dea38de95f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="">
-很有可能是你的配置过程出了问题，aria2没有成功启动，所以请检查配置过程。
-2、百度网盘官方经常会封杀网盘助手，所以当网盘助手不能用时，请到作者的Github主页查找更新，如果作者没有更新，请静静等待。</p>
-]]></description>
-                
-                
-                
-                
-                
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/">计算机相关</category>
-                                
-                            
-                        
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/aria2/">aria2</category>
-                                
-                            
-                        
-                    
-                
-            </item>
-        
-            <item>
                 <title>国足啊国足</title>
-                <link>https://yw9.github.io/posts/%E5%9B%BD%E8%B6%B3%E5%95%8A%E5%9B%BD%E8%B6%B3/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E5%9B%BD%E8%B6%B3%E5%95%8A%E5%9B%BD%E8%B6%B3/</guid>
+                <link>https://yw9.github.io/posts/national-football/</link>
+                <guid isPermaLink="true">https://yw9.github.io/posts/national-football/</guid>
                 <pubDate>Fri, 07 Oct 2016 14:56:14 +0000</pubDate>
                 
                     <author>ywshi@live.cn (Owen)</author>
@@ -1165,8 +1114,8 @@ sudo apt-get install indicator-sysmonitor
         
             <item>
                 <title>骗局</title>
-                <link>https://yw9.github.io/posts/%E9%AA%97%E5%B1%80/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E9%AA%97%E5%B1%80/</guid>
+                <link>https://yw9.github.io/posts/scam/</link>
+                <guid isPermaLink="true">https://yw9.github.io/posts/scam/</guid>
                 <pubDate>Sun, 02 Oct 2016 22:43:00 +0000</pubDate>
                 
                     <author>ywshi@live.cn (Owen)</author>
@@ -1219,8 +1168,8 @@ sudo apt-get install indicator-sysmonitor
         
             <item>
                 <title>毛概课上的演讲</title>
-                <link>https://yw9.github.io/posts/%E6%AF%9B%E6%A6%82%E8%AF%BE%E4%B8%8A%E7%9A%84%E6%BC%94%E8%AE%B2/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E6%AF%9B%E6%A6%82%E8%AF%BE%E4%B8%8A%E7%9A%84%E6%BC%94%E8%AE%B2/</guid>
+                <link>https://yw9.github.io/posts/a-lecture-speech-in-class/</link>
+                <guid isPermaLink="true">https://yw9.github.io/posts/a-lecture-speech-in-class/</guid>
                 <pubDate>Sun, 02 Oct 2016 18:53:43 +0000</pubDate>
                 
                     <author>ywshi@live.cn (Owen)</author>
@@ -1268,8 +1217,8 @@ sudo apt-get install indicator-sysmonitor
         
             <item>
                 <title>我的第一篇博客</title>
-                <link>https://yw9.github.io/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+                <link>https://yw9.github.io/posts/the-first-blog/</link>
+                <guid isPermaLink="true">https://yw9.github.io/posts/the-first-blog/</guid>
                 <pubDate>Sun, 02 Oct 2016 14:41:51 +0000</pubDate>
                 
                     <author>ywshi@live.cn (Owen)</author>
