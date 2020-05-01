@@ -23,10 +23,188 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Wed, 29 Apr 2020 18:38:04 +0800</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2020 21:42:09 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://yw9.github.io/rss.xml" />
         
+        
+            <item>
+                <title>在斐讯N1上使用Docker搭建Bitwarden密码管理器</title>
+                <link>https://yw9.github.io/posts/use-docker-to-build-bitwarden-password-management-on-phicomm-n1/</link>
+                <guid isPermaLink="true">https://yw9.github.io/posts/use-docker-to-build-bitwarden-password-management-on-phicomm-n1/</guid>
+                <pubDate>Fri, 01 May 2020 21:26:49 +0800</pubDate>
+                
+                    <author>ywshi@live.cn (Owen)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description><![CDATA[<p>我曾经写过一篇关于如何使用Keepass的<a href="https://yw9.github.io/posts/how-to-use-keepess/">博客</a>，但是其实写完之后没多久，我就放弃了Keepass而转投Lastpass，原因是在手机使用频率更高的今天，Keepass缺少一个美观实用的手机客户端。Lastpass用了几年后，又转投了开源的Bitwarden。今天，我打算在斐讯N1上自己搭建一个Bitwarden。</p>
+<h1 id="刷入armbian">刷入Armbian</h1>
+<p>N1的降级以及刷各种系统的教程网上很多，随便一搜就能找到，这里不再赘述。我用的是恩山大神<a href="https://www.right.com.cn/forum/space-uid-285101.html">flippy</a>制作的&quot;Armbian buster with Linux 5.4.23-amlogic-flippy-28+o&quot;，可以在下面的链接里下载。</p>
+<pre><code>链接：https://pan.baidu.com/s/1hXrkbAoVpHy0yfOYIOtcRQ
+提取码：sspy
+</code></pre><p>这个版本自带Docker一键安装脚本，用以下命令把Docker先装好。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-shell" data-lang="shell"><span class="nb">cd</span> root
+./install-docker.sh
+</code></pre></td></tr></table>
+</div>
+</div><p>然后把Nginx安装上。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-shell" data-lang="shell">sudo apt install nginx
+</code></pre></td></tr></table>
+</div>
+</div><h1 id="安装portainer">安装Portainer</h1>
+<p>给Docker安装一个可视化面板，操作起来更方便，不装也可以。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-shell" data-lang="shell">docker pull portainer/portainer
+</code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-shell" data-lang="shell">docker run <span class="se">\
+</span><span class="se"></span>-d -p 9000:9000 <span class="se">\ </span>
+-v /var/run/docker.sock:/var/run/docker.sock <span class="se">\
+</span><span class="se"></span>-v /home/docker/portainer:/data <span class="se">\ </span>
+--name portainer <span class="se">\
+</span><span class="se"></span>--restart<span class="o">=</span>always <span class="se">\ </span>
+portainer/portainer
+</code></pre></td></tr></table>
+</div>
+</div><p>容器启动后，浏览器里输入&quot;ip:9000&quot;即可进入Portainer，第一次登录需要设置账号密码。</p>
+<h1 id="安装bitwarden">安装Bitwarden</h1>
+<p>现在开始安装Bitwarden，官方提供的Docker镜像比较笨重，所以我们选择这个使用Rust编写的第三方版本，<a href="https://hub.docker.com/r/bitwardenrs/server">bitwardenrs/server</a>。</p>
+<p>首先把镜像拉取到本地,选择适合N1的arrch64版本</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-shell" data-lang="shell">docker pull bitwardenrs/server:aarch64
+</code></pre></td></tr></table>
+</div>
+</div><p>然后启动运行一个容器。运行之后，在浏览器里输入“内网ip:8001”就可以访问Bitwarden的注册界面了，如果你只想在内网里使用，那基本上大功告成了。（8001随便设置）</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-shell" data-lang="shell">docker run -d --restart<span class="o">=</span>always --name bitwarden -v /root/bitwarden/data/:/data/ -p 8001:80 bitwardenrs/server:aarch64
+</code></pre></td></tr></table>
+</div>
+</div><h1 id="外网访问">外网访问</h1>
+<p>虽然之前也搭建过网站，但都是使用宝塔来操作的，比较无脑，所以也不会配置Nginx，对其背后的原理也是一只半解。一开始我还怕实现公网访问要费一番功夫，网上查了一些资料，发现如果家里的宽带有公网ip的话还挺简单的。判断是否具有公网ip可以通过以下方法：先用百度搜索ip，看看出来的结果与路由器wan口的ip是否一致，如果一致，说明是公网ip。</p>
+<h2 id="宽带有公网ip">宽带有公网ip</h2>
+<p>有公网ip，非常简单。在路由器里设置端口转发即可。但是由于我的公网ip也不是固定的，每次重新拨号都会变化，所以还是需要设置一下，一种是使用路由器自带的DDNS，注册某个服务后得到的一个域名，无论ip怎么变化，这个域名都能访问家里的N1。但因为我有一个域名闲置着，所以用一下方法使用自己的域名。</p>
+<p>首先在DNSPod里设置域名解析，然后在密钥管理里创建密钥。最后，借助Github上的<a href="https://github.com/NewFuture/DDNS">DDNS</a>实现定期更新域名解析到自己的公网ip。</p>
+<h1 id="宽带无公网ip">宽带无公网ip</h1>
+<p>如果没有公网ip，就需要准备一台虚拟主机了，暂时未做尝试， 待补充。</p>
+<h1 id="添加ssl证书">添加SSL证书</h1>
+<p>如果不添加ssl证书，在chrome浏览器里是无法创建帐户的，我用的是从腾讯云申请的免费证书。申请通过后，下载解压会得到几个文件夹，选择Nginx。把两个文件改个简单的名字。然后，删掉刚刚创建的容器，使用下面的代码再创建一次。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-shell" data-lang="shell">docker run -d <span class="se">\
+</span><span class="se"></span>--restart<span class="o">=</span>always <span class="se">\
+</span><span class="se"></span>--name bitwarden <span class="se">\
+</span><span class="se"></span>-e <span class="nv">ROCKET_TLS</span><span class="o">=</span><span class="s1">&#39;{certs=&#34;/ssl/xyz.crt&#34;,key=&#34;/ssl/xyz.key&#34;}&#39;</span> <span class="se">\
+</span><span class="se"></span>-v /root/bitwarden/ssl/:/ssl/ <span class="se">\
+</span><span class="se"></span>-v /root/bitwarden/data/:/data/ <span class="se">\
+</span><span class="se"></span>-p 8001:80 <span class="se">\
+</span><span class="se"></span>bitwardenrs/server:aarch64
+</code></pre></td></tr></table>
+</div>
+</div><p>创建完成之后，使用MobaXterm（Windows）或者Royal TSX（macOS）把刚刚的两个文件上传到&quot;/root/bitwarden/ssl/&quot;文件夹下；放好之后，重启一次容器。现在再通过&quot;https://域名:8001&quot;来访问,尊贵的s就出现了。</p>
+<h1 id="自动备份">自动备份</h1>
+<p>待补充</p>
+<h1 id="参考">参考</h1>
+<p><a href="https://post.smzdm.com/p/akmg2vvr/">N1 Docker搭建Bitwarden密码管理平台</a></p>
+<p><a href="https://sumju.net/?p=549">斐讯N1 Armbian上安装BitWarden，树莓派安装BitWarden</a></p>
+<p><a href="https://penpenguanguan.com/10271.html">使用群晖搭建第三方 Bitwarden 密码服务器</a></p>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yw9.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/">计算机相关</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://yw9.github.io/tags/docker/">Docker</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://yw9.github.io/tags/bitwarden/">Bitwarden</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://yw9.github.io/tags/%E6%96%90%E8%AE%AFn1/">斐讯N1</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://yw9.github.io/tags/armbian/">Armbian</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://yw9.github.io/tags/%E5%85%AC%E7%BD%91ip/">公网ip</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>堵得慌</title>
