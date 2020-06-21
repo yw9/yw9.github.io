@@ -10,7 +10,7 @@
         <title>YW9的博客</title>
         <link>https://yw9.github.io/</link>
         <description>记录自己的所思所想。</description>
-        <generator>Hugo 0.69.2 https://gohugo.io/</generator>
+        <generator>Hugo 0.72.0 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Fri, 01 May 2020 21:42:09 +0800</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jun 2020 18:16:06 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://yw9.github.io/rss.xml" />
         
@@ -118,11 +118,19 @@ portainer/portainer
 <p>虽然之前也搭建过网站，但都是使用宝塔来操作的，比较无脑，所以也不会配置Nginx，对其背后的原理也是一只半解。一开始我还怕实现公网访问要费一番功夫，网上查了一些资料，发现如果家里的宽带有公网ip的话还挺简单的。判断是否具有公网ip可以通过以下方法：先用百度搜索ip，看看出来的结果与路由器wan口的ip是否一致，如果一致，说明是公网ip。</p>
 <h2 id="宽带有公网ip">宽带有公网ip</h2>
 <p>有公网ip，非常简单。在路由器里设置端口转发即可。但是由于我的公网ip也不是固定的，每次重新拨号都会变化，所以还是需要设置一下，一种是使用路由器自带的DDNS，注册某个服务后得到的一个域名，无论ip怎么变化，这个域名都能访问家里的N1。但因为我有一个域名闲置着，所以用一下方法使用自己的域名。</p>
-<p>首先在DNSPod里设置域名解析，然后在密钥管理里创建密钥。最后，借助Github上的<a href="https://github.com/NewFuture/DDNS">DDNS</a>实现定期更新域名解析到自己的公网ip。</p>
-<h1 id="宽带无公网ip">宽带无公网ip</h1>
+<p>首先在DNSPod里设置域名解析，然后在密钥管理里创建密钥。最后，借助Github上的<a href="https://github.com/NewFuture/DDNS">DDNS</a>实现定期更新域名解析到自己的公网ip。DDNS的二进制文件在Armbian上似乎无法运行，所以直接使用python版本，在定时任务脚本改动一下。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-shell" data-lang="shell"><span class="nv">CMD</span><span class="o">=</span><span class="s2">&#34;</span><span class="nv">$RUN_DIR</span><span class="s2">/python run.py -c </span><span class="nv">$RUN_DIR</span><span class="s2">/config.json&#34;</span><span class="p">;</span>
+</code></pre></td></tr></table>
+</div>
+</div><h1 id="宽带无公网ip">宽带无公网ip</h1>
 <p>如果没有公网ip，就需要准备一台虚拟主机了，暂时未做尝试， 待补充。</p>
 <h1 id="添加ssl证书">添加SSL证书</h1>
-<p>如果不添加ssl证书，在chrome浏览器里是无法创建帐户的，我用的是从腾讯云申请的免费证书。申请通过后，下载解压会得到几个文件夹，选择Nginx。把两个文件改个简单的名字。然后，删掉刚刚创建的容器，使用下面的代码再创建一次。</p>
+<p>如果不添加ssl证书，在chrome浏览器里是无法创建帐户的，我用的是从腾讯云申请的免费证书。申请通过后，下载解压会得到几个文件夹，选择Nginx。把两个文件改个简单的名字。然后，删掉刚刚创建的容器，使用下面的命令再创建一次。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -147,7 +155,6 @@ portainer/portainer
 </div>
 </div><p>创建完成之后，使用MobaXterm（Windows）或者Royal TSX（macOS）把刚刚的两个文件上传到&quot;/root/bitwarden/ssl/&quot;文件夹下；放好之后，重启一次容器。现在再通过&quot;https://域名:8001&quot;来访问,尊贵的s就出现了。</p>
 <h1 id="自动备份">自动备份</h1>
-<p>待补充</p>
 <h1 id="参考">参考</h1>
 <p><a href="https://post.smzdm.com/p/akmg2vvr/">N1 Docker搭建Bitwarden密码管理平台</a></p>
 <p><a href="https://sumju.net/?p=549">斐讯N1 Armbian上安装BitWarden，树莓派安装BitWarden</a></p>
@@ -199,108 +206,6 @@ portainer/portainer
                                 
                                 
                                     <category domain="https://yw9.github.io/tags/%E5%85%AC%E7%BD%91ip/">公网ip</category>
-                                
-                            
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>堵得慌</title>
-                <link>https://yw9.github.io/posts/get-stuck/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/get-stuck/</guid>
-                <pubDate>Sat, 25 Apr 2020 18:07:45 +0800</pubDate>
-                
-                    <author>ywshi@live.cn (Owen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description><![CDATA[<p>有一件事情，我已经拖了很久了。几周前，我和S的恋情走到了终点。说开了之后，她让我把她的东西收拾一下，然后放到她家门卫那里。我说可以。可是当我开始收拾时，发现这件事情竟是如此艰难。我站在房间里环顾四周，想着家里好像也没有她多少东西啊。但仔细找找，又发现到处都有她的影子。拿起一件东西时，我阻止不了思绪的飘飞，脑海里全是她使用这件东西的场景。于是，我放下东西陷入沉思，终于什么都没收拾好。</p>
-<p>于是我想让她过来收拾一下，佯装着搞不清楚该收拾哪些。起初，她说可以。过了几天又说不想再走那条通往我家的路，还是要麻烦我收拾一下。她用词礼貌谨慎，我听了却是浑身不自在。我只能答应她。</p>
-<p>可我至今还是没有收拾好。</p>
-<p>我真的搞不清楚自己是怎样一种心态，说起来明明是我把她放走的，现在却又如此狼狈。我其实是一个非常佛系的人，跟她在一起时，我什么都没有考虑，开心就是了。可是她不这样，她会去考虑未来，考虑婚姻。起初我还巧言敷衍，但时间久了我知道这不是办法。但我真的没有考虑过结婚。我刚大学毕业，刚谈第一次恋爱，我真的没办法说服自己马上就去考虑婚姻的模样。可是从她的角度考虑，似乎也能说得通。她早我四年毕业，已经在社会上闯荡了四年，渴望一个港湾似乎合情合理。这是我们俩最先遇到的矛盾，这矛盾如此尖锐，以至于我们根本不敢谈论。</p>
-<p>刚刚我在收拾S的东西，越收拾越觉得呼吸困难，心里堵得慌，就想着写点东西排解一下。没想到越回忆越难过……东西似乎已经收拾好了，那就这样吧。</p>
-<p>……</p>
-<p>我都26岁了，但我真的不懂爱情，并且感觉自己再也遇不到爱情了。年轻的朋友们，十八九岁时，一定要好好谈谈情说说爱。</p>
-]]></description>
-                
-                
-                
-                
-                
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/categories/%E5%BF%83%E6%83%85%E7%9B%B8%E5%85%B3/">心情相关</category>
-                                
-                            
-                        
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/%E7%88%B1%E6%83%85/">爱情</category>
-                                
-                            
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>错过</title>
-                <link>https://yw9.github.io/posts/let-slip/</link>
-                <guid isPermaLink="true">https://yw9.github.io/posts/let-slip/</guid>
-                <pubDate>Fri, 10 Apr 2020 22:06:01 +0000</pubDate>
-                
-                    <author>ywshi@live.cn (Owen)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description><![CDATA[<p>隔壁房间有窸窸窣窣的声音，伴随着男人的低声咳嗽，合租的室友已经洗漱完毕准备出门了。俞是看看表，才刚过5点。翻一翻身，俞是开始后悔昨晚竟没有坚守自己睡前渴死不喝水的人生信条，他感受到了自己肿胀坚挺的下体，膀胱的充实感让他断定里面不是血液而是尿液。</p>
-<p>睡意也随着尿一起排空了，躺在床上，俞是翻出手机滑动。昨晚睡前刷过的朋友圈仅有一条更新，那是一个平时怎么也不会跑到脑海里的名字，但是一看到这几个字记忆的闸门就止不住。</p>
-<p>三年前，俞是还在上大学，那时的支付宝很想在社交领域与微信掰掰手腕，于是推出了很多社交的功能，但只有二手买卖区在俞是的学校流行。俞是把自己亚马逊凑单买回来还没看过的一本书也挂在了上面，价格很低。</p>
-<p>很快就有人询问，自然是同一个学校的。俞是支付宝的个人背景是黑豹乐队的一张图片，是他随便找来的。然而这让那位买书的女生打开了话匣，她说自己也喜欢摇滚。有人主动搭话，俞是自然不会错过，有一搭没一搭的和她聊了很多，二人的关系陡然亲近了不少。特别是得知女生是艺术学院的以后，俞是的想象力马上变得丰富起来。平日里俞是也经常可以遇到艺术学院的女生，据他观察，她们单独行走时，大都目不斜视，高昂着头，流露出一种生人勿近的神情；但当她们和男同学们走在一起时，又往往嘻嘻哈哈，勾肩搭背，同样得旁若无人。遇到她们，俞是总也忍不住偷觑她们热裤下占身体三分之二的长腿。</p>
-<p>他们约在食堂门口交易，那天俞是出门前回看了三次镜子中的自己。见面的时间越来越近，俞是非常紧张，害怕她有那种凌人的盛气。当她笑盈盈地走近时，俞是才知道自己的想法有多可笑。她披着长发，额头有几颗不安分的痘痘，眼睛很大，但似乎有不小的度数；浅灰色的羊毛外套上附着了几根长头发，她的腿没有占身体三分之二，同时被一条非常普通的纯蓝色紧身牛仔裤盖着，脚上是一双黑色的短靴。一直以来，俞是都觉得穿纯蓝色紧身牛仔裤的女生比较土，但她似乎是个例外。如果交易的时候哪个田径赛场正在进行百米比赛，那么不用选手撞线，俞是已经在目送思影的背影了。</p>
-<p>晚上，俞是突然得了幻听，总觉得自己的手机在震动，后来索性盯着支付宝的对话框来验证自己还是一个正常人。终于在视网膜准备出逃时收到了思影的消息。俞是兴奋得跳起来摸了一下房顶吃灰的风扇，然后和风扇一起吃灰。当晚，他们又聊了很多，终于在互道晚安后把聊天工具升级为了微信。</p>
-<p>思影说自己是个孤僻的人，和舍友的关系一般，想搬出去住；思影说自己准备继续研究生；思影鼓励俞是好好准备公务员考试……</p>
-<p>那个时候，俞是已在大三的尾巴上踱步，除了想努努力谈一场恋爱，更是被老师们最难就业季的言论吓得整日忧心忡忡，早早开始准备各种可以找到工作的考试。</p>
-<p>有一个下着毛毛雨的四月的一天，思影把俞是约到了学校停车的地下室。她手里拿着刚从教务处打印出来的成绩单，心情有些低落。她抱怨老师给自己打的分数太低，估计保送研究生是没可能了。俞是搜肠刮肚，履行自己此刻必须履行的安慰义务。可能是效果一般，思影忍不住笑出了声。</p>
-<p>“你抽烟吗？”她轻描淡写地问。</p>
-<p>“不会。”虽然有点惊讶，但俞是表现得还是很轻松。</p>
-<p>“抽烟让我放松……”思影夹着细细的爆珠，轻巧地吐出几个烟圈。</p>
-<p>这次分别以后，思影吐烟圈的样子在俞是脑海盘旋了好久。这些烟圈逐渐变大变浓，变成了一道屏障，遮住了思影，俞是怎么也看不清她的模样。虽然思影让俞是帮忙拿得快递还没来得及给她，但故事至此就戛然而止，俞是连一点细节都无法想起了。</p>
-<p>想到这里，俞是翻身下床，从柜子里翻出了当时帮思影拿的快递，那是一本书，叫做《老三毛阿达姆松》。</p>
-<p>看到书还在，俞是松了口气，马上在思影的朋友圈下发了一条评论：睡得真晚。</p>
-]]></description>
-                
-                
-                
-                
-                
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/categories/%E5%B0%8F%E8%AF%B4/">小说</category>
-                                
-                            
-                        
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://yw9.github.io/tags/%E7%88%B1%E6%83%85/">爱情</category>
                                 
                             
                         
